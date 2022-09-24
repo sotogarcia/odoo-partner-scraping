@@ -1,0 +1,58 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT partners (partner)+>
+<!ATTLIST partners
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT partner (name,type,address,zip,city,state,phone,web,email,
+                   vocation,logo,description)>
+<!ATTLIST partner
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT name (#PCDATA)>
+<!ATTLIST name
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT type (#PCDATA)>
+<!ATTLIST type
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT address (#PCDATA)>
+<!ATTLIST address
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT zip (#PCDATA)>
+<!ATTLIST zip
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT city (#PCDATA)>
+<!ATTLIST city
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT state (#PCDATA)>
+<!ATTLIST state
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT phone (#PCDATA)>
+<!ATTLIST phone
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT web (#PCDATA)>
+<!ATTLIST web
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT email (#PCDATA)>
+<!ATTLIST email
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT vocation (#PCDATA)>
+<!ATTLIST vocation
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT logo (#PCDATA)>
+<!ATTLIST logo
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT description (#PCDATA)>
+<!ATTLIST description
+    xmlns CDATA #FIXED ''>
