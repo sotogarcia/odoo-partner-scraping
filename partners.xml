@@ -1,101 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE partners SYSTEM "https://raw.githubusercontent.com/sotogarcia/odoo_partner_scraping/main/partners.dtd">
 
 <partners>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/process-control-sccl-2076272?country_id=67">
         <name>PROCESS CONTROL SCCL</name>
         <type>Gold</type>
-        <address><![CDATA[Avda. Vía Augusta 85-87, 3ª Planta, Oficina 2 08174 Sant Cugat del Vallés  España]]></address>
+        <address><![CDATA[Avda. Vía Augusta 85-87, 3ª Planta, Oficina 2 08174 Sant Cugat del Vallés  Spain]]></address>
         <zip>08174</zip>
         <city>Sant Cugat del Vallés</city>
         <state>Barcelona</state>
         <phone>+34 932 29 68 10</phone>
         <web>http://www.processcontrol.es</web>
         <email>heber.torrelles@processcontrol.es</email>
-        <vocation>Científico</vocation>
-        <logo>//odoocdn.com/web/image/res.partner/2076272/avatar_512/PROCESS%20CONTROL%20SCCL?unique=4cf29fe</logo>
+        <vocation>Science/Technology</vocation>
+        <logo>https://odoocdn.com/web/image/res.partner/2076272/avatar_512/PROCESS%20CONTROL%20SCCL?unique=4cf29fe</logo>
         <description><![CDATA[Nuestro entorno cambia y nuestra empresa debe evolucionar con él a través de herramientas que nos transforman los datos en información y la información en conocimiento. En  Process Control podemos ayudar a tu empresa a gestionar con la máxima eficacia y eficiencia cualquier cambio, y ayudar a rentabilizar tu negocio a través de soluciones informáticas a la medida de tus necesidades.Process Control nace en 1985 con la única idea de crear un modelo de relación comercial basada en la confianza con el cliente. En la actualidad y después de más de 30 años, ofrecemos soluciones a nuestros más de 700 clientes, seguimos en constante evolución para poder ofrecer las mejores soluciones, apostando por Odoo y el código abierto.
 ]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/nanobytes-informatica-y-telecomunicaciones-s-l-938517?country_id=67">
         <name>Nanobytes Informática y Telecomunicaciones S.L.</name>
         <type>Gold</type>
-        <address><![CDATA[Nanobytes Informática y Telecomunicaciones S.L. Calle Toledo 1 local 7 de Churriana de la Vega 18194 Granada GR España]]></address>
+        <address><![CDATA[Nanobytes Informática y Telecomunicaciones S.L. Calle Toledo 1 local 7 de Churriana de la Vega 18194 Granada GR Spain]]></address>
         <zip>18194</zip>
         <city>Granada GR</city>
         <state>Granada</state>
         <phone>+34 958 574 702</phone>
         <web>http://www.nanobytes.es/</web>
         <email>ventas@nanobytes.es</email>
-        <vocation>Científico</vocation>
-        <logo>//odoocdn.com/web/image/res.partner/938517/avatar_512/Nanobytes%20Inform%C3%A1tica%20y%20Telecomunicaciones%20S.L.?unique=7fa056a</logo>
+        <vocation>Science/Technology</vocation>
+        <logo>https://odoocdn.com/web/image/res.partner/938517/avatar_512/Nanobytes%20Inform%C3%A1tica%20y%20Telecomunicaciones%20S.L.?unique=7fa056a</logo>
         <description><![CDATA[Acompañando a otras empresas en su camino digital hacia el éxito.En Nanobytes ayudamos a otras empresas a mejorar y crecer, gracias al amplio abanico de posibilidades que ofrece la tecnología. Nacida en 2005, disponemos de sede en Granada, Madrid y Andorra, ofreciendo nuestros  servicios en todo el territorio nacional español y andorrano.Gracias al extenso  equipo multidisciplinar de profesionales y medios técnicos disponibles, podemos brindar una cobertura integral a todas las áreas de negocios relacionadas con IT.Con más de 100 implementaciones, nuestras referencias nos avalan.Apostar por Nanobytes, es apostar seguro.
 ]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/qubiq-2010-s-l-1394664?country_id=67">
         <name>QubiQ 2010, S.L</name>
         <type>Gold</type>
-        <address><![CDATA[C/Pamplona, 92, 3º/5ª 08018  Barcelona  España]]></address>
+        <address><![CDATA[C/Pamplona, 92, 3º/5ª 08018  Barcelona  Spain]]></address>
         <zip>08018</zip>
         <city>Barcelona</city>
         <state>Barcelona</state>
         <phone>4920185890990</phone>
         <web>http://www.qubiq.es</web>
         <email>info@qubiq.es</email>
-        <vocation>TI / Comunicaciones</vocation>
-        <logo>//odoocdn.com/web/image/res.partner/1394664/avatar_512/QubiQ%202010%2C%20S.L?unique=280525f</logo>
+        <vocation>IT/Communication</vocation>
+        <logo>https://odoocdn.com/web/image/res.partner/1394664/avatar_512/QubiQ%202010%2C%20S.L?unique=280525f</logo>
         <description><![CDATA[QubiQ es una consultoría tecnológica fundada en Barcelona en el año 2.010 que está especializada en Software de Gestión.QubiQ cubre el mercado español con oficinas en Madrid y en Barcelona.ERP + CRM + Business Intelligence son nuestros servicios principales.Somos consultores con más de 20 años de experiencia enfocados en implementar, con la mínima inversión y en el menor tiempo posible, vuestro proyecto tecnológico. Nuestro mantra es Servicio, Servicio y Servicio.QubiQ is a company founded in Barcelona in 2010 specialized in Management Software. QubiQ has offices in Madrid and Barcelona to cover all the Spain marketERP + CRM + Business Intelligence are our main service’s portfolio. Our experience of over 20 years' in consultancy with a focus on SERVICE, SERVICE & SERVICE will implement your IT projects in the shortest time with the minimum investment.
 ]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/landoo-sistemas-de-informacion-s-l-965780?country_id=67">
         <name>LANDOO Sistemas de Información S.L.</name>
         <type>Gold</type>
-        <address><![CDATA[P. Empr. Zuatzu, edif. Urumea Zubiberri  bidea 31, pl. 2, ofic. 3 20018 San Sebastian  España]]></address>
+        <address><![CDATA[P. Empr. Zuatzu, edif. Urumea Zubiberri  bidea 31, pl. 2, ofic. 3 20018 San Sebastian  Spain]]></address>
         <zip>20018</zip>
         <city>San Sebastian</city>
         <state>Guipúzcoa</state>
         <phone>943 568 663</phone>
         <web>http://landoo.es</web>
         <email>info@landoo.es</email>
-        <vocation>Científico</vocation>
-        <logo>//odoocdn.com/web/image/res.partner/965780/avatar_512/LANDOO%20Sistemas%20de%20Informaci%C3%B3n%20S.L.?unique=b5b50a3</logo>
+        <vocation>Science/Technology</vocation>
+        <logo>https://odoocdn.com/web/image/res.partner/965780/avatar_512/LANDOO%20Sistemas%20de%20Informaci%C3%B3n%20S.L.?unique=b5b50a3</logo>
         <description><![CDATA[En LANDOO nos dedicamos en exclusiva a implantar Odoo y estamos enfocados a dar la mejor solución a cada cliente. Estamos en el País Vasco pero implantamos en todo el Estado y contamos con amplia experiencia en otros ERPs, locales e internacionales. Implantamos siguiendo la metodología GAP Análisis recomendada por Odoo y estableciendo relaciones de confianza a largo plazo con nuestros clientes. At LANDOO we are full focused to implement Odoo and to give always the best solution for each customer. We are in the Basque Country but implement in all Spain and we have extensive experience in other ERPs, locals and internationals. We implement following the Odoo S.A. recommended GAP Analysis and creating long-term relationships of trust.
 ]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/indaws-78899?country_id=67">
         <name>INDAWS</name>
         <type>Gold</type>
-        <address><![CDATA[Calle Sogorb, 8, 1 46004 Valéncia  España]]></address>
+        <address><![CDATA[Calle Sogorb, 8, 1 46004 Valéncia  Spain]]></address>
         <zip>46004</zip>
         <city>Valéncia</city>
         <state>Valencia</state>
         <phone>+34 96 381 64 34</phone>
         <web>http://www.indaws.es</web>
         <email>victor@indaws.es</email>
-        <vocation>TI / Comunicaciones</vocation>
-        <logo>//odoocdn.com/web/image/res.partner/78899/avatar_512/INDAWS?unique=7a405a4</logo>
+        <vocation>IT/Communication</vocation>
+        <logo>https://odoocdn.com/web/image/res.partner/78899/avatar_512/INDAWS?unique=7a405a4</logo>
         <description><![CDATA[🔵 inDAWS somos la empresa de transformación digital, especializada en implantar Odoo en compañías de distintos sectores, ayudándolas a conseguir sus objetivos.
 🚀 Desde nuestras sedes de Valencia, Madrid, Barcelona, Andalucía y Galicia (España) aportamos soluciones a medida a clientes nacionales e internacionales.                                                                     Contactar
 🎯 En nuestros más de 11 años de experiencia, hemos implantado Odoo con éxito a cientos de usuarios, siempre tratando cada uno de nuestros proyectos de forma exclusiva, adaptando y personalizando cada solución a las necesidades específicas de cada cliente.
 ✔️ Analizamos, comprendemos y hacemos propias las necesidades de cada cliente, manteniendo siempre nuestros valores y directrices en cada uno de nuestros proyectos, puntualidad en la entrega, personalización, formación y atención al cliente.🥇 Especialistas en las Odoo Apps:🔵 Facturación🔵 Ventas🔵 Contabilidad🔵 Inventario🔵 Compras🔵 CRM🔵 Proyectos 🏆 Descubre nuestros casos de éxitoAffinity Drinks  Wiselegal  Pinturas Kilnher  Recolim  Frooty   ]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/octupus-technologies-sl-3917484?country_id=67">
         <name>Octupus Technologies SL</name>
         <type>Gold</type>
-        <address><![CDATA[Calle Albasanz, 52 - 1º A 28037 Madrid  España]]></address>
+        <address><![CDATA[Calle Albasanz, 52 - 1º A 28037 Madrid  Spain]]></address>
         <zip>28037</zip>
         <city>Madrid</city>
         <state>Madrid</state>
         <phone>+34 687 54 20 55</phone>
         <web>https://www.octupus.es</web>
         <email>jvalladolid@octupus.es</email>
-        <vocation>TI / Comunicaciones</vocation>
-        <logo>//odoocdn.com/web/image/res.partner/3917484/avatar_512/Octupus%20Technologies%20SL?unique=464bcf0</logo>
+        <vocation>IT/Communication</vocation>
+        <logo>https://odoocdn.com/web/image/res.partner/3917484/avatar_512/Octupus%20Technologies%20SL?unique=464bcf0</logo>
         <description><![CDATA[ En Octupus nos encantan las integraciones: tenemos más de 85 conectores funcionando.Con nuestra herramienta multicanal integramos negocios con marketplaces, CMS, transportistas y mucho más. Si tienes una integración en mente y no está en nuestra lista, lo desarrollamos para ti.El primer paso es siempre una Consultoría donde identificamos las funcionalidades y expectativas para con el sistema. Entregamos un Cronograma de Proyecto con el PMV "Producto Mínimo Viable" para asegurar la entrega en tiempo y forma dentro del presupuesto "cerrado" acordado entre ambas partes: evitando las malas implementaciones.
 
   Para ello utilizamos una metodología propia de implementación agile y más de 20 desarrolladores en nuestra empresa. Cada equipo está liderado por un product owner con experiencia en gestión de proyectos, encargado de ser el enlace entre los clientes y los desarrolladores.Todos nuestros proyectos disponen de 2 meses de garantía donde ante cualquier fallo lo arreglamos sin coste para tí. Además, tenemos diferentes planes de soporte y post venta para mantener el sistema siempre actualizado.Evoluciona de la mano de Odoo con el Partner Gold en España especializado en Ecommerce. ¡Comienza ahora! 
@@ -107,18 +108,18 @@ PRESUPUESTO ONLINE
 Más INFO en:Web: www.octupus.esTeléfono: Jorge Valladolid + 34 687 542 055eMail: jvalladolid@octupus.es  ]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/consultoria-informatica-studio73-s-l-1506080?country_id=67">
         <name>Consultoría Informática Studio73, S.L.</name>
         <type>Gold</type>
-        <address><![CDATA[Carrer del Camí Vell de l'Estació, 6, bajo izq 46870 Ontinyent  España]]></address>
+        <address><![CDATA[Carrer del Camí Vell de l'Estació, 6, bajo izq 46870 Ontinyent  Spain]]></address>
         <zip>46870</zip>
         <city>Ontinyent</city>
         <state>Valencia</state>
         <phone>+34961911279</phone>
         <web>https://www.studio73.es</web>
         <email>jordi@studio73.es</email>
-        <vocation>Científico</vocation>
-        <logo>//odoocdn.com/web/image/res.partner/1506080/avatar_512/Consultor%C3%ADa%20Inform%C3%A1tica%20Studio73%2C%20S.L.?unique=3abd754</logo>
+        <vocation>Science/Technology</vocation>
+        <logo>https://odoocdn.com/web/image/res.partner/1506080/avatar_512/Consultor%C3%ADa%20Inform%C3%A1tica%20Studio73%2C%20S.L.?unique=3abd754</logo>
         <description><![CDATA[
 
 Somos Studio73 Estamos ubicados en Ontinyent (Valencia). Contamos con la certificación de Odoo Gold Partner.¿Qué podemos aportarte?Nos dedicamos a la implantación de Odoo en compañías de tamaño medio y grande que requieren soluciones avanzadas e interconectadas con otros sistemas. Incluimos más de 8 años de experiencia, gran conocimiento, equipo de profesionales multidisciplinares consolidado y la estructura necesaria.Por ello garantizamos la correcta implantación a través de nuestra metodología de trabajo más que probada y, una vez finalizada la implantación, ofrecemos soporte continuo para solucionar cualquier duda o imprevisto con el sistema.Desde 2012 nuestra empresa ha implantado con éxito Odoo en compañías que a día de hoy siguen confiando en nosotros para migrar a nuevas versiones y ampliar funciones a su medida.Servicios especializados en:Odoo. Implementando un potente ERP de gestión actualizado, fiable y dinámico. Catálogo de Ventas. Consiguiendo conectar en tiempo real a los usuarios que necesitan tener movilidad.Almacén inteligente. Logrando un control de stock y movimientos total.Producción 4.0. Con información precisa de todos los procesos productivos.Desarrollo web. Plasmando la identidad de nuestros colaboradores en una web intuitiva, atractiva y fácil para el usuario.Consultoría de marketing global. Apoyo y creación de proyectos de marketing y marketing digital.Sistemas y redes. Nuestro departamento de sistemas se encargará de buscar la mejor opción de hardware o software para la mejora de toda la infraestructura tecnológica, su mantenimiento y actualización.Ofrecemos un servicio integral para empresas. Nuestra misión es analizar, proponer y conseguir una solución a todos los puntos críticos detectados en la empresa de nuestros clientes, con el fin de ayudarlos y acompañarlos en su crecimiento y consecución de los objetivos propuestos. En Studio73 somos capaces de realizar un estudio íntegro de los procesos productivos de nuestros colaboradores y plantearles soluciones óptimas, para conseguir resultados más rápidos con menor coste. De esta manera se agilizarán las tareas y se consumirán menos recursos, mejorando la eficiencia y la eficacia de la empresa. Permitiendo aportar valor a aquellos departamentos que lo necesiten y obteniendo a la vez toda la información necesaria para la toma de decisiones más oportunas. 
@@ -128,10 +129,10 @@ Somos Studio73 Estamos ubicados en Ontinyent (Valencia). Contamos con la certif
 ]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/rapsodoo-iberia-s-l-4783348?country_id=67">
         <name>Rapsodoo Iberia S.L.</name>
         <type>Gold</type>
-        <address><![CDATA[Paseo de la Castellana 79 7ª Planta 28046 Madrid M España]]></address>
+        <address><![CDATA[Paseo de la Castellana 79 7ª Planta 28046 Madrid M Spain]]></address>
         <zip>28046</zip>
         <city>Madrid M</city>
         <state>Madrid</state>
@@ -139,46 +140,46 @@ Somos Studio73 Estamos ubicados en Ontinyent (Valencia). Contamos con la certif
         <web>https://www.rapsodoo.com/es</web>
         <email>salesiberia@rapsodoo.com</email>
         <vocation></vocation>
-        <logo>//odoocdn.com/web/image/res.partner/4783348/avatar_512/Rapsodoo%20Iberia%20S.L.?unique=c00fd85</logo>
+        <logo>https://odoocdn.com/web/image/res.partner/4783348/avatar_512/Rapsodoo%20Iberia%20S.L.?unique=c00fd85</logo>
         <description><![CDATA[Rapsodoo is one of the Odoo Europe's leading partner with focus on large and middle enterprises. It is made by a team of senior entrepreneurs and investors with the “crazy dream” to aggregate other younger entrepreneurs and smart talents to build a unique, inspired, focused and funny International group. Rapsodoo has 100+ talents distribuite between Italy, Switzerland, Spain and Germany offices.  ]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/jumo-technologies-s-l-1462158?country_id=67">
         <name>JUMO Technologies S.L.</name>
         <type>Gold</type>
-        <address><![CDATA[Calle Ciutat de Balaguer, 5, EN 1 08022 Barcelona  España]]></address>
+        <address><![CDATA[Calle Ciutat de Balaguer, 5, EN 1 08022 Barcelona  Spain]]></address>
         <zip>08022</zip>
         <city>Barcelona</city>
         <state>Barcelona</state>
         <phone>+34 683 33 38 34</phone>
         <web>https://www.jumotech.com</web>
         <email>jojedag@jumotech.com</email>
-        <vocation>TI / Comunicaciones</vocation>
-        <logo>//odoocdn.com/web/image/res.partner/1462158/avatar_512/JUMO%20Technologies%20S.L.?unique=6ac2d2e</logo>
+        <vocation>IT/Communication</vocation>
+        <logo>https://odoocdn.com/web/image/res.partner/1462158/avatar_512/JUMO%20Technologies%20S.L.?unique=6ac2d2e</logo>
         <description><![CDATA[El Grupo JUMO Technologies tiene ubicaciones en Barcelona, Portugal y Estonia, especializada en la contabilidad y asesoramiento financiero para guiar en la consultoría tecnológica a las empresas a mejorar sus estados financieros como sus flujos de negocio con automatizaciones claras y prácticas.Nos dedicamos a la implantación y desarrollo de Odoo, cubriendo la consultoría, instalación, parametrización y desarrollo de módulos y tiendas Virtuales.Disponemos de expertos en las diferentes áreas de negocio como son: Finanzas, Contabilidad, Contabilidad Multi Empresa, Producción, logística, finanzas, SGA, marketing, ventas, entre otras.Sabemos que no solo es importante un desarrollo excelente, sino además, formar a los diferentes departamentos y equipos de nuestros clientes en la utilización de cada uno de los módulos desarrollados.Nuestra fortaleza es que como empresa es que antes que implantadores de Odoo somos expertos en asesoramiento fiscal y tecnológico para empresas y juntos a la ayuda de Odoo, somos una solución imbatible.
 ]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/bb-hostmarketing-s-l-594311?country_id=67">
         <name>BB HOSTMARKETING S.L</name>
         <type>Gold</type>
-        <address><![CDATA[C/ Major 26 08849 Barcelona  España]]></address>
+        <address><![CDATA[C/ Major 26 08849 Barcelona  Spain]]></address>
         <zip>08849</zip>
         <city>Barcelona</city>
         <state>Barcelona</state>
         <phone> +34 936763418</phone>
         <web>http://www.dmpyme.com</web>
         <email>info@dmpyme.com</email>
-        <vocation>Científico</vocation>
-        <logo>//odoocdn.com/web/image/res.partner/594311/avatar_512/BB%20HOSTMARKETING%20S.L?unique=46c73ce</logo>
+        <vocation>Science/Technology</vocation>
+        <logo>https://odoocdn.com/web/image/res.partner/594311/avatar_512/BB%20HOSTMARKETING%20S.L?unique=46c73ce</logo>
         <description><![CDATA[
 DMPyme es una empresa ubicada en Barcelona dedicada a la consultoría y programación de soluciones en Odoo. Nuestro personal está formado por un equipo multidisciplinar y cubrimos las áreas de consultoría, instalación, parametrización, desarrollos y adaptación de módulos.Disponemos de expertos en áreas de producción, logística y finanzas, para dar cobertura a muy diversos sectores industriales. Creamos software a la medida de cada empresa y formamos a los trabajadores de nuestros clientes en la utilización del mismo.Creemos que la búsqueda de la excelencia es el fin y por eso acompañamos a nuestros clientes desde el pre-analisis hasta el post-arranque. Depurando cualquier detalle durante las fases de diseño, implementación y de testeo.]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/tecnihand-1532020?country_id=67">
         <name>Tecnihand</name>
         <type>Silver</type>
-        <address><![CDATA[c/ Casp, 118-120, Átic - 2 08013 Barcelona B España]]></address>
+        <address><![CDATA[c/ Casp, 118-120, Átic - 2 08013 Barcelona B Spain]]></address>
         <zip>08013</zip>
         <city>Barcelona B</city>
         <state>Barcelona</state>
@@ -186,7 +187,7 @@ DMPyme es una empresa ubicada en Barcelona dedicada a la consultoría y programa
         <web>http://www.tecnihand.com</web>
         <email>odoo@tecnihand.com</email>
         <vocation></vocation>
-        <logo>//odoocdn.com/web/image/res.partner/1532020/avatar_512/Tecnihand?unique=9e9a385</logo>
+        <logo>https://odoocdn.com/web/image/res.partner/1532020/avatar_512/Tecnihand?unique=9e9a385</logo>
         <description><![CDATA[
 
 
@@ -199,18 +200,18 @@ personalización.-----------------------------------------------------    TECNIH
 ]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/voodoo-enterprise-software-s-l-4936857?country_id=67">
         <name>Voodoo Enterprise Software, S.L.</name>
         <type>Silver</type>
-        <address><![CDATA[Calle Ramón de Aguinaga, 18 28028 Madrid  España]]></address>
+        <address><![CDATA[Calle Ramón de Aguinaga, 18 28028 Madrid  Spain]]></address>
         <zip>28028</zip>
         <city>Madrid</city>
         <state>Madrid</state>
         <phone>+34 913 61 27 29</phone>
         <web>http://www.voodoo.es</web>
         <email>hola@voodoo.es</email>
-        <vocation>TI / Comunicaciones</vocation>
-        <logo>//odoocdn.com/web/image/res.partner/4936857/avatar_512/Voodoo%20Enterprise%20Software%2C%20S.L.?unique=e4977b6</logo>
+        <vocation>IT/Communication</vocation>
+        <logo>https://odoocdn.com/web/image/res.partner/4936857/avatar_512/Voodoo%20Enterprise%20Software%2C%20S.L.?unique=e4977b6</logo>
         <description><![CDATA[
 
 
@@ -277,49 +278,49 @@ CONTACTA CON NOSOTROS
 ]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/guadaltech-soluciones-tecnologicas-15183?country_id=67">
         <name>GuadalTech Soluciones Tecnológicas</name>
         <type>Silver</type>
-        <address><![CDATA[Calle Aviación31,Edificio Vilaser,Ofic.1 41007 Sevilla  España]]></address>
+        <address><![CDATA[Calle Aviación31,Edificio Vilaser,Ofic.1 41007 Sevilla  Spain]]></address>
         <zip>41007</zip>
         <city>Sevilla</city>
         <state>Sevilla</state>
         <phone>+34 955 540 827</phone>
         <web>https://www.guadaltech.es/</web>
         <email>federico.romero@guadaltech.es</email>
-        <vocation>TI / Comunicaciones</vocation>
-        <logo>//odoocdn.com/web/image/res.partner/15183/avatar_512/GuadalTech%20Soluciones%20Tecnol%C3%B3gicas?unique=3fab38c</logo>
+        <vocation>IT/Communication</vocation>
+        <logo>https://odoocdn.com/web/image/res.partner/15183/avatar_512/GuadalTech%20Soluciones%20Tecnol%C3%B3gicas?unique=3fab38c</logo>
         <description><![CDATA[
 GUADALTECH aporta soluciones tecnológicas que generan confianza entre sus clientes. La experiencia y profesionalidad avalan nuestro trabajo en diferentes sectores y nos permite disponer de una visión global que aplicamos para la generación de soluciones específicas y también transversales y aplicables a cualquier tipología de empresa.Somos partners desde 2011, con gran experiencia en implantación y adaptación de Odoo, integración con aplicaciones móviles, ecommerce y sistemas autómatas, ofreciendo la solución que mejor se adapte a sus necesidades, con calidad y costes competitivos. CONTACTA CON NOSOTROSNuestra experiencia nos avala.Nuestros proyectos nos han permitido desarrollar diferentes soluciones verticales en diversos sectores:BuildingRetailAgroalimentarioAgencias de comunicaciónJuegos onlineTelecomunicacionesTalleres de vehículos y Reparación de maquinariaRentingFranquiciasEventosVendingDistribuciónetc…Ofrecemos nuestros servicios desde Sevilla, pero con ámbito nacional, y dan fe nuestros clientes en A Coruña, Badajoz, Barcelona, Cádiz, Córdoba, Huelva, Madrid, Málaga, Sevilla, y Valencia.¡SOLICITA UNA DEMO!  ]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/punt-sistemes-slu-22115?country_id=67">
         <name>PUNT SISTEMES SLU</name>
         <type>Silver</type>
-        <address><![CDATA[Corretger, 31; Parc Empresarial  46980 Paterna (Valencia)  España]]></address>
+        <address><![CDATA[Corretger, 31; Parc Empresarial  46980 Paterna (Valencia)  Spain]]></address>
         <zip>46980</zip>
         <city>Paterna (Valencia)</city>
         <state>Valencia</state>
         <phone>963592833</phone>
         <web>http://www.puntsistemes.es</web>
         <email>sferrer@puntsistemes.es</email>
-        <vocation>TI / Comunicaciones</vocation>
-        <logo>//odoocdn.com/web/image/res.partner/22115/avatar_512/PUNT%20SISTEMES%20SLU?unique=1c978f9</logo>
+        <vocation>IT/Communication</vocation>
+        <logo>https://odoocdn.com/web/image/res.partner/22115/avatar_512/PUNT%20SISTEMES%20SLU?unique=1c978f9</logo>
         <description><![CDATA[VALENCIA –  Somos una empresa de servicios informáticos para empresas. Estamos especializados en la implantación de sistemas de gestión empresarial. Contamos con un gran equipo humano con más de 25 años de experiencia en la consultoría de ERP y CRM.Nuestra misión es ayudar a nuestros clientes a encontrar la solución óptima para sus necesidades.Nuestra forma de trabajo está basada en la cercanía con el cliente para ofrecer siempre el mejor servicio. Más de 800 empresas ya nos han confiado la implementación y gestión de sus sistemas. ]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/acysos-s-l-80090?country_id=67">
         <name>Acysos S.L.</name>
         <type>Silver</type>
-        <address><![CDATA[Miguel Astrain 18, 1º Oficina A-B 31006 Pamplona NA España]]></address>
+        <address><![CDATA[Miguel Astrain 18, 1º Oficina A-B 31006 Pamplona NA Spain]]></address>
         <zip>31006</zip>
         <city>Pamplona NA</city>
         <state>Navarra</state>
         <phone>+34948238905 - +34876036455</phone>
         <web>https://www.acysos.com</web>
         <email>info@acysos.com</email>
-        <vocation>Científico</vocation>
-        <logo>//odoocdn.com/web/image/res.partner/80090/avatar_512/Acysos%20S.L.?unique=c70544e</logo>
+        <vocation>Science/Technology</vocation>
+        <logo>https://odoocdn.com/web/image/res.partner/80090/avatar_512/Acysos%20S.L.?unique=c70544e</logo>
         <description><![CDATA[Empresa creada en el 2005. Llevamos desde el 2006 asesorando, implantando y desarrollando Odoo. Somos la empresa más antigua introductora de Odoo a nivel nacional, con sede en Pamplona y Zaragoza. Tenemos más proyectos que los visibles aquí, ya que tenemos muchas instalaciones Community.
 Empezamos con TinyERP 4.2, el primer nombre de Odoo, debido a su crecimiento evolucionó a OpenERP, hoy en día ya no es solo un ERP ha evolucionado a Odoo.
 Nuestro equipo esta formado por consultores, asesores fiscales y
@@ -334,59 +335,59 @@ expertos a nivel fiscal.
 ]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/develoop-software-1821369?country_id=67">
         <name>Develoop Software</name>
         <type>Silver</type>
-        <address><![CDATA[c/Enric Granados 32 Interior 08008 Barcelona  España]]></address>
+        <address><![CDATA[c/Enric Granados 32 Interior 08008 Barcelona  Spain]]></address>
         <zip>08008</zip>
         <city>Barcelona</city>
         <state>Barcelona</state>
         <phone>+34 933 002 702</phone>
         <web>http://www.develoop.es</web>
         <email>comercial@develoop.net</email>
-        <vocation>TI / Comunicaciones</vocation>
-        <logo>//odoocdn.com/web/image/res.partner/1821369/avatar_512/Develoop%20Software?unique=b3f7044</logo>
+        <vocation>IT/Communication</vocation>
+        <logo>https://odoocdn.com/web/image/res.partner/1821369/avatar_512/Develoop%20Software?unique=b3f7044</logo>
         <description><![CDATA[
 Develoop Software es una empresa constituida en 1997 ubicada en el Eixample de Barcelona. Nuestro CORE es el desarrollo a medida y los servicios de software para empresas. Desde 2005 somos implantadores de ERP. En 2019 comenzamos a colaborar como Partners de Odoo. Aprovechando nuestro conocimiento empresarial y capacidad de desarrollo en Python estamos ampliando la cartera de clientes satisfechos de trabajar con Odoo.]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/infinityloop-sistemas-s-l-1136132?country_id=67">
         <name>InfinityLoop Sistemas, S.L.</name>
         <type>Ready</type>
-        <address><![CDATA[Calle Matías Padrón 97, piso 4, puerta A4 35004 Las Palmas de Gran Canaria  España]]></address>
+        <address><![CDATA[Calle Matías Padrón 97, piso 4, puerta A4 35004 Las Palmas de Gran Canaria  Spain]]></address>
         <zip>35004</zip>
         <city>Las Palmas de Gran Canaria</city>
         <state>Las Palmas</state>
         <phone>+34 928 38 37 72</phone>
         <web>http://www.infinityloop.es</web>
         <email>julian@infinityloop.es</email>
-        <vocation>Científico</vocation>
-        <logo>//odoocdn.com/web/image/res.partner/1136132/avatar_512/InfinityLoop%20Sistemas%2C%20S.L.?unique=3ea6876</logo>
+        <vocation>Science/Technology</vocation>
+        <logo>https://odoocdn.com/web/image/res.partner/1136132/avatar_512/InfinityLoop%20Sistemas%2C%20S.L.?unique=3ea6876</logo>
         <description><![CDATA[Infinityloop Sistemas Proveedor de soluciones de software con sede en Las Palmas de Gran Canaria.Infinityloop es una empresa que cultiva una cultura de trabajo centrada en el cliente y respetuosa con los empleados. Se dedica a resolver los problemas de las empresas a través de la tecnología, siempre apostando por soluciones basad en tecnologías de código abierto.Las soluciones de Infinityloop Sistemas siguen una metodología propia e incluyen:+ Gestión de Procesos de Negocio y Gestión del Cambio+ Comercio electrónico+ Contabilidad Financiera y Analítica+ Gestión de Almacenes y Logística+ Gestión de activos
 ]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/forgeflow-s-l-336863?country_id=67">
         <name>FORGEFLOW, S.L.</name>
         <type>Ready</type>
-        <address><![CDATA[c/Muntaner 200, 3-3 08036 Barcelona  España]]></address>
+        <address><![CDATA[c/Muntaner 200, 3-3 08036 Barcelona  Spain]]></address>
         <zip>08036</zip>
         <city>Barcelona</city>
         <state>Barcelona</state>
         <phone>(+34) 934615975</phone>
         <web>http://www.forgeflow.com</web>
         <email>jordi.ballester@forgeflow.com</email>
-        <vocation>TI / Comunicaciones</vocation>
-        <logo>//odoocdn.com/web/image/res.partner/336863/avatar_512/FORGEFLOW%2C%20S.L.?unique=9b22a3e</logo>
+        <vocation>IT/Communication</vocation>
+        <logo>https://odoocdn.com/web/image/res.partner/336863/avatar_512/FORGEFLOW%2C%20S.L.?unique=9b22a3e</logo>
         <description><![CDATA[ForgeFlow (formerly known as Eficent) provides Business and IT Consulting Services to help companies in their digital transformation and to adapt to the the new volatile, uncertain, complex and ambiguous environment. We trust in Odoo as the best digital platform for this transformation, where we are Odoo Partners since 2014.With a team certified in Odoo, we are currently listed as the Top 10 contributors of Odoo apps worldwide (https://www.odoo.com/apps/modules/browse?search=eficent), with more than 50 projects delivered worldwide. Our team offers the Demand Driven MRP for Odoo, certified by the Demand Driven Institute (https://www.demanddriveninstitute.com/ddmrp-compliant-software).
 
 ]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/avanzosc-s-l-721227?country_id=67">
         <name>AVANZOSC, S.L</name>
         <type>Ready</type>
-        <address><![CDATA[Av. Julio Urkijo, 32-34 20720 Azkoitia, Gipuzkoa  España]]></address>
+        <address><![CDATA[Av. Julio Urkijo, 32-34 20720 Azkoitia, Gipuzkoa  Spain]]></address>
         <zip>20720</zip>
         <city>Azkoitia, Gipuzkoa</city>
         <state>Guipúzcoa</state>
@@ -394,23 +395,23 @@ Develoop Software es una empresa constituida en 1997 ubicada en el Eixample de B
         <web>http://www.avanzosc.es</web>
         <email>ramondiez@avanzosc.es</email>
         <vocation></vocation>
-        <logo>//odoocdn.com/web/image/res.partner/721227/avatar_512/AVANZOSC%2C%20S.L?unique=76608b3</logo>
+        <logo>https://odoocdn.com/web/image/res.partner/721227/avatar_512/AVANZOSC%2C%20S.L?unique=76608b3</logo>
         <description><![CDATA[Realizamos todo tipo de tareas relacionadas con Odoo. Desde el análisis de necesidades, formación, consultoría, desarrollos a medida e informes hasta el soporte posterior a su arranque con la aplicación, ponemos a su disposición un amplio equipo de formadores, consultores funcionales y técnicos programadores que determinarán la problemática de su empresa y le ofertarán la solución más adecuada a su casuística específica.Además de partners, somos activos colaboradores de la comunidad española e internacional de Odoo, promotores de la web de comunidad AEODOOHemos desarrollado más de 600 módulos / apps que adaptan y extienden Odoo para cubrir las necesidades de clientes nuestros pertenecientes a varios sectores industriales, entre ellos•	Empresas industriales, fabricantes, caldererías, torno, montaje, mecánicas•	Sector auxiliar del automóvil o aeronaútica•	Envasadores de líquidos (bodegas, champús, tintes, colas pinturas...)•	Talleres de reparación•	Alimentaria (trazabilidad y caducidad)•	Textil•	Suministros industriales, ferreterías•	Centros de formación•	Empresas de limpieza•	Empresas de distribución•	Tics, start-ups, proyectos, ingeniería de sofware, arquitectura, construcciónPuede consultar nuestras apps y nuestras ramas de desarrollo, aquí:https://github.com/avanzoschttps://apps.openerp.com/apps/modules/browse?author=avanzoscDeje que le ayudemos a seleccionar, optimizar e implantar las aplicaciones Odoo que mejor se adapten y le permitan gestionar de forma integral su empresa.
 ]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/birtum-soluciones-s-l-6534845?country_id=67">
         <name>BIRTUM SOLUCIONES, S.L.</name>
         <type>Ready</type>
-        <address><![CDATA[Calle Casp 139 Entresuelo 2a 08013  Barcelona  España]]></address>
+        <address><![CDATA[Calle Casp 139 Entresuelo 2a 08013  Barcelona  Spain]]></address>
         <zip>08013</zip>
         <city>Barcelona</city>
         <state>Barcelona</state>
         <phone>+34 932 46 06 07</phone>
         <web>http://www.birtum.com</web>
         <email>odooes@birtum.com</email>
-        <vocation>TI / Comunicaciones</vocation>
-        <logo>//odoocdn.com/web/image/res.partner/6534845/avatar_512/BIRTUM%20SOLUCIONES%2C%20S.L.?unique=0d080b8</logo>
+        <vocation>IT/Communication</vocation>
+        <logo>https://odoocdn.com/web/image/res.partner/6534845/avatar_512/BIRTUM%20SOLUCIONES%2C%20S.L.?unique=0d080b8</logo>
         <description><![CDATA[En Birtum contamos con más de 15 años de experiencia en la consultoría e implementación ERP y un equipo humano capacitado con amplia experiencia en Odoo. 
 Nos dedicamos en exclusiva a la implementación de Odoo siendo nuestro fuerte los proyectos multipaís Europa-América. Podemos decir con orgullo que contamos con proyectos activos en España, México, Argentina, Colombia, Perú, Chile, Gibraltar y Andorra. 
 Nos gusta el trabajo en cercanía, por esto contamos con oficinas en España, México y Argentina y con 3 oficinas de desarrollo localizadas en Europa y América.  
@@ -425,51 +426,51 @@ Contáctanos
 Y solicita diagnóstico gratuito, una sesión de una hora en la que uno de nuestros consultores te hará una demo del software Odoo ERP adaptada a las necesidades de tu negocio. ]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/itundra-com-1264902?country_id=67">
         <name>iTundra.com</name>
         <type>Ready</type>
-        <address><![CDATA[C  Churruca 75, 2o 2a 08301 Barcelona  España]]></address>
+        <address><![CDATA[C  Churruca 75, 2o 2a 08301 Barcelona  Spain]]></address>
         <zip>08301</zip>
         <city>Barcelona</city>
         <state>Barcelona</state>
         <phone>+34 93 775 63 20</phone>
         <web>http://www.itundra.com</web>
         <email>vtorralba@itundra.com</email>
-        <vocation>Científico</vocation>
-        <logo>//odoocdn.com/web/image/res.partner/1264902/avatar_512/iTundra.com?unique=a97f67f</logo>
+        <vocation>Science/Technology</vocation>
+        <logo>https://odoocdn.com/web/image/res.partner/1264902/avatar_512/iTundra.com?unique=a97f67f</logo>
         <description><![CDATA[ iTundra.com tiene como principal objetivo facilitar los medios tecnológicos más adecuados para que el cliente optimice al máximo sus recursos dedicados. Uno de nuestros principales servicios es la Consultoría Tecnológica: Compuesta por profesionales con experiencia en gestión de proyectos, los cuales están constantemente formados en las evoluciones de la tecnología aplicada al negocio.Somos especialistas en la implantación de Odoo para toda Cataluña y Baleares dando servicio a las provincias de Girona (Gerona), Barcelona, Lleida (Lérida), Tarragona, Mallorca, Menorca e Ibiza.Disponemos de amplia experiencia en el sector de e-commerce, HORECA, retail y sector industrial.Hemos desarrollado diferentes conectores para Woocommerce, Shopify, Prestashop, Zalando, Privalia, Sihot PMS, Correos Express, etc.​
 ]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/sygel-technology-s-l-2469870?country_id=67">
         <name>Sygel Technology S.L.</name>
         <type>Ready</type>
-        <address><![CDATA[Calle Alaba 61 08005 Barcelona  España]]></address>
+        <address><![CDATA[Calle Alaba 61 08005 Barcelona  Spain]]></address>
         <zip>08005</zip>
         <city>Barcelona</city>
         <state>Barcelona</state>
         <phone>+34 613 04 76 66</phone>
         <web>https://www.sygel.es/</web>
         <email>info@sygel.es</email>
-        <vocation>TI / Comunicaciones</vocation>
-        <logo>//odoocdn.com/web/image/res.partner/2469870/avatar_512/Sygel%20Technology%20S.L.?unique=ec9c948</logo>
+        <vocation>IT/Communication</vocation>
+        <logo>https://odoocdn.com/web/image/res.partner/2469870/avatar_512/Sygel%20Technology%20S.L.?unique=ec9c948</logo>
         <description><![CDATA[Sygel Technology S.L. nace del proyecto conjunto de varios profesionales con experiencia en la gestión de empresas, programación y en nuevas tecnologías.
 El equipo de Sygel está constituido por un conjunto de profesionales y especialistas en distintas áreas, con experiencia para cubrir todas las necesidades requeridas durante el proceso de implantación del ERP.
 Nuestra máxima es ofrecer un buen servicio con trabajos de calidad. Nos esforzamos para mejorar día a día dedicando parte de nuestro tiempo a I+D y al aprendizaje de nuevas tecnologías para poder ofrecer mejores soluciones a nuestros clientes.No dudes en contactar con nosotros, te contactaremos en el menor tiempo posible. Ofrecemos nuestros servicios a empresas de Barcelona, Tarragona, Girona, Lleida,Madrid, Sevilla, Valencia, Málaga, Bilbao o cualquier otra ciudad.]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/axga-solutions-s-l-u-4311652?country_id=67">
         <name>AXGA Solutions, S.L.U.</name>
         <type>Ready</type>
-        <address><![CDATA[C/ Conde de Xiquena 9, 2º Izq 28004 Madrid  España]]></address>
+        <address><![CDATA[C/ Conde de Xiquena 9, 2º Izq 28004 Madrid  Spain]]></address>
         <zip>28004</zip>
         <city>Madrid</city>
         <state>Madrid</state>
         <phone>+34623247789</phone>
         <web>http://www.axgasolutions.com</web>
         <email>axga@axgasolutions.com</email>
-        <vocation>TI / Comunicaciones</vocation>
-        <logo>//odoocdn.com/web/image/res.partner/4311652/avatar_512/AXGA%20Solutions%2C%20S.L.U.?unique=44e0823</logo>
+        <vocation>IT/Communication</vocation>
+        <logo>https://odoocdn.com/web/image/res.partner/4311652/avatar_512/AXGA%20Solutions%2C%20S.L.U.?unique=44e0823</logo>
         <description><![CDATA[
 AboutEn AXGA somos
 expertos en la mejora y digitalización de procesos para empresas.Contamos con
@@ -506,41 +507,41 @@ estandarización, automatización. Todo en constante comunicación con el client
 y con validaciones intermedias. ]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/dinaneo-internet-rentable-s-l-2249097?country_id=67">
         <name>Dinaneo Internet Rentable S.L.</name>
         <type>Ready</type>
-        <address><![CDATA[Majuelo, 39 28224 Pozuelo de Alarcón  España]]></address>
+        <address><![CDATA[Majuelo, 39 28224 Pozuelo de Alarcón  Spain]]></address>
         <zip>28224</zip>
         <city>Pozuelo de Alarcón</city>
         <state>Madrid</state>
         <phone>+34 631 03 92 22</phone>
         <web>https://www.dinaneo.com/</web>
         <email>sergio.zea@dinaneo.com</email>
-        <vocation>TI / Comunicaciones</vocation>
-        <logo>//odoocdn.com/web/image/res.partner/2249097/avatar_512/Dinaneo%20Internet%20Rentable%20S.L.?unique=4f34cf3</logo>
+        <vocation>IT/Communication</vocation>
+        <logo>https://odoocdn.com/web/image/res.partner/2249097/avatar_512/Dinaneo%20Internet%20Rentable%20S.L.?unique=4f34cf3</logo>
         <description><![CDATA[Somos una empresa implantadora de Odoo ubicada en Madrid. Formamos un equipo multidisciplinar con muchos años de experiencia en dirección, implantación y desarrollo de ERP's, integraciones con otros sistemas y desarrollos a medida.Nuestro foco de negocio se centra principalmente en los servicios de implementación, personalización e integración de Odoo. Para ello combinamos nuestras dos principales áreas de experiencia:Contabilidad/FinanzasSistemas/Programación. Esta combinación que nos caracteriza ha demostrado ser versátil y eficaz para aportar las mejores soluciones en sistemas de gestión para nuestros clientes.¡Contáctanos!Trabajamos con clientes en toda España en proyectos locales, nacionales e internacionales (tanto en formato presencial como on-line). Trabajamos para todo tipo de empresas tratando de aportar lo que cada una de ellas demanda para sus necesidades, sector, tamaño, tecnología y presupuestos.Realizamos integraciones con todo tipo de sistemas, ERP's, CRM's, Aplicaciones a Medida, Soluciones Verticales, Aplicaciones Móviles, Webs etc.Nos adaptamos a las necesidades de nuestros clientes minimizando sus costes de implementación. Entendemos que nuestros clientes son nuestros mejores comerciales y, por eso, buscamos relaciones a largo plazo en las que nuestros clientes sienten que más que un proveedor somos su aliado tecnológico.¿Quieres un demo gratuita?Descrubre nuestro portfolio de páginas webs 
 ]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/endeos-sl-2171082?country_id=67">
         <name>ENDEOS SL</name>
         <type>Ready</type>
-        <address><![CDATA[Alemania 100, 1ª planta Sabadell 08201 Sabadell  España]]></address>
+        <address><![CDATA[Alemania 100, 1ª planta Sabadell 08201 Sabadell  Spain]]></address>
         <zip>08201</zip>
         <city>Sabadell</city>
         <state>Barcelona</state>
         <phone>+34 900 897 896</phone>
-        <web>None</web>
+        <web></web>
         <email>info@endeos.com</email>
-        <vocation>TI / Comunicaciones</vocation>
-        <logo>//odoocdn.com/web/image/res.partner/2171082/avatar_512/ENDEOS%20SL?unique=f1daca9</logo>
+        <vocation>IT/Communication</vocation>
+        <logo>https://odoocdn.com/web/image/res.partner/2171082/avatar_512/ENDEOS%20SL?unique=f1daca9</logo>
         <description><![CDATA[Desde el año 2004, ENDEOS ofrece servicios profesionales dentro del ámbito de las tecnologías de la información y focalizada en la digitalización de empresas. Ubicada en la ciudad de Sabadell en Barcelona, ofrece servicios entre los que destacan: Servicios CLOUD, Comunicaciones IP,  Sistemas informáticos, Servicios de Web y Marketing Digital, así como implantación de Sistemas de Gestión focalizados en ODOO, ofreciendo todos sus servicios a nivel nacional. La tendencia de estos últimos años ha provocado la reducción e incluso desaparición de los departamentos de informática, permitiendo que ENDEOS se haya posicionado como socio tecnológico para cubrir ese hueco, proporcionando soluciones integrales. Confianza, profesionalidad e integridad, son los principales valores, que sumados a continua innovación, formación, actualización y trato humano diferencial, definen el servicio global de ENDEOS para la pyme.]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/extreme-micro-s-l-1803689?country_id=67">
         <name>Extreme Micro S.L.</name>
         <type>Ready</type>
-        <address><![CDATA[Rda. Paisos Catalans 26 08304 Mataró  España]]></address>
+        <address><![CDATA[Rda. Paisos Catalans 26 08304 Mataró  Spain]]></address>
         <zip>08304</zip>
         <city>Mataró</city>
         <state>Barcelona</state>
@@ -548,69 +549,69 @@ y con validaciones intermedias. ]]></description>
         <web>https://pyming.com/</web>
         <email>hola@pyming.com</email>
         <vocation></vocation>
-        <logo>//odoocdn.com/web/image/res.partner/1803689/avatar_512/Extreme%20Micro%20S.L.?unique=4783d74</logo>
+        <logo>https://odoocdn.com/web/image/res.partner/1803689/avatar_512/Extreme%20Micro%20S.L.?unique=4783d74</logo>
         <description><![CDATA[PYMING | Consultoría Odoo Barcelona es una empresa especializada en la optimización de procesos empresariales. Con más de 20 años de experiencia en la consultoría empresarial y tecnológica.Implementamos y desarrollamos soluciones para pequeñas y medianas empresas que cubren los principales sectores: industrial, distribución, servicios, alimentación, cárnico, fabricación, retail y muchos otros.Desarrollamos herramientas que permiten obtener el mejor rendimiento de su negocio, optimizando sus procesos y facilitando la relación con sus clientes y proveedores.Ofrecemos servicios de implantación, soporte y formación para ERP, CRM, BPM y Gestión Documental, entre otros.
 ]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/nextgenwebs-s-l-5102796?country_id=67">
         <name>NextGenWebs, S.L.</name>
         <type>Ready</type>
-        <address><![CDATA[Plz. Gerardo Salvador 1 46988 Paterna  España]]></address>
+        <address><![CDATA[Plz. Gerardo Salvador 1 46988 Paterna  Spain]]></address>
         <zip>46988</zip>
         <city>Paterna</city>
         <state>Valencia</state>
         <phone>0034627414136</phone>
-        <web>None</web>
+        <web></web>
         <email>odoo@naranjatec.com</email>
-        <vocation>TI / Comunicaciones</vocation>
-        <logo>//odoocdn.com/web/image/res.partner/5102796/avatar_512/NextGenWebs%2C%20S.L.?unique=d14d4d3</logo>
+        <vocation>IT/Communication</vocation>
+        <logo>https://odoocdn.com/web/image/res.partner/5102796/avatar_512/NextGenWebs%2C%20S.L.?unique=d14d4d3</logo>
         <description><![CDATA[Somos especialistas en la digitalización de empresas desde 2003 bajo nuestra marca Naranjatec. Con oficinas en España (Valencia y Alicante) y Paises Bajos (Haarlem), trabajamos a nivel nacional e internacional. Más de cinco años de experiencia con la implementación y adaptación de Odoo así como su integración con otros sistemas, especialmente eCommerce. Disponemos de un equipo internacional y multi disciplinario. Podemos comunicarnos en español, inglés y neerlandés. Conocimientos profundos de los mercados español y neerlandés a nivel de contabilidad y procesos de negocio. En España trabajamos por todo el territorio con clientes en Murcia, Toledo, Cuenca, Madrid, Asturias, Lugo, Pontevedra, Teruel, Huesca, Navarra, Burgos, Caceres, Almería, Albacete, Orense, Zamora.Contacta con nosotrosAlgunas opciones de integración en las que podemos ayudar a tu marca:· Dominios· Alojamiento Linux· VPS Linux· Servidores dedicados· Correo profesional· Antispam· Certificados SSL· Diseño web· Tiendas online· Apps móviles· SEO· Campañas de mailing· OdooSolicita una demo We are specialists in the digitization of companies since 2003. With offices in Spain (Valencia and Alicante) and the Netherlands (Haarlem), we work nationally and internationally. More than five years of experience with the implementation and adaptation of Odoo as well as its integration with other systems, especially eCommerce. We have an international and multi-disciplinary team. We can communicate in Spanish, English and Dutch. Deep knowledge of the Spanish and Dutch markets in terms of accounting and business processes.Contact usSome integration options in which we can help your brand:· Domains· Linux hosting· VPS Linux· Dedicated servers· Professional mail· Antispam· SSL certificates· Web design· Online store· Mobile apps· SEO· Mailing campaigns· OdooRequest a demo]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/pesol-consultoria-tecnologica-1084035?country_id=67">
         <name>PESOL Consultoría Tecnológica</name>
         <type>Ready</type>
-        <address><![CDATA[C/Juan de Juanes4F San Pedro del Pinatar 30740 Murcia  España]]></address>
+        <address><![CDATA[C/Juan de Juanes4F San Pedro del Pinatar 30740 Murcia  Spain]]></address>
         <zip>30740</zip>
         <city>Murcia</city>
         <state>Murcia</state>
         <phone>+34 868 18 74 49</phone>
-        <web>None</web>
+        <web></web>
         <email>info@pesol.es</email>
-        <vocation>Científico</vocation>
-        <logo>//odoocdn.com/web/image/res.partner/1084035/avatar_512/PESOL%20Consultor%C3%ADa%20Tecnol%C3%B3gica?unique=4af8d1d</logo>
+        <vocation>Science/Technology</vocation>
+        <logo>https://odoocdn.com/web/image/res.partner/1084035/avatar_512/PESOL%20Consultor%C3%ADa%20Tecnol%C3%B3gica?unique=4af8d1d</logo>
         <description><![CDATA[En PESOL somos expertos en la implantación de Odoo.Conocemos Odoo desde sus primeras versiones tanto en los aspectos técnicos como funcionales.Estos conocimientos técnicos y funcionales de Odoo, y una amplia capacidad analítica nos permiten encontrar la solución optima a cada proceso adaptando Odoo a su empresa y viceversa.ServiciosConsultoría Realizamos la consultoría de los procesos de su empresa enfocandola a la implantación de Odoo, encontrando soluciones optimas para cada proceso.Desarrollo Realizamos desarrollos de Odoo de forma eficiente y efectiva, buscando siempre la mayor calidad.Formación Nuestros conocimientos de Odoo nos permiten realizar formación tanto técnica como funcional, tanto presencial como de forma remota.ReferenciasLa mejor carta de presentación son los clientes satisfechos, pongase en contacto con nosotros para facilitarle referencias de su sector.]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/global-business-home-s-l-3265091?country_id=67">
         <name>Global Business Home S.L.</name>
         <type>Ready</type>
-        <address><![CDATA[Calle padre espla 4 , planta 3 izq 03013 Alicante  España]]></address>
+        <address><![CDATA[Calle padre espla 4 , planta 3 izq 03013 Alicante  Spain]]></address>
         <zip>03013</zip>
         <city>Alicante</city>
         <state>Alicante</state>
         <phone>00966 55 862 0888</phone>
         <web>https://www.gbh-business.com/en/</web>
         <email>a.hamad@gbh-business.com</email>
-        <vocation>TI / Comunicaciones</vocation>
-        <logo>//odoocdn.com/web/image/res.partner/3265091/avatar_512/Global%20Business%20Home%20S.L.?unique=b9a5d70</logo>
+        <vocation>IT/Communication</vocation>
+        <logo>https://odoocdn.com/web/image/res.partner/3265091/avatar_512/Global%20Business%20Home%20S.L.?unique=b9a5d70</logo>
         <description><![CDATA[Global Business Home S.L.  es una consultora tecnológica especializada en el diseño y desarrollo de soluciones de negocio utilizando como base el software Odoo. Somos partners de Odoo para España y Arabia Saudita. En cada proyecto, el objetivo de nuestro trabajo es que nuestros clientes aumenten el valor que entregan a los suyos, y construyan una plataforma flexible que les permita de manera ágil:      ✓ Incorporar sus nuevas estrategias de negocio.     ✓ Desarrollar relaciones productivas con clientes, proveedores, colaboradores y seguidores.     ✓ Difundir las innovaciones en sus productos y  servicios.     ✓ Ser más competitivos.     ✓ Aumentar el control sobre el negocio y cada una de sus áreas. ¡Solicita una demo!Nuestras propuestas contribuyen a:El aumento de la productividad.La reducción de costes.La excelencia en los procesos de atención al cliente.La capitalización del trabajo de las personas.El aumento de las ventas y de la fidelidad del cliente.La máxima utilización de la tecnología y de la información disponible en beneficio de las empresas y sus accionistas.Contacta con nosotros
 ]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/fairhall-solutions-s-l-5271?country_id=67">
         <name>Fairhall Solutions S.L.</name>
         <type>Ready</type>
-        <address><![CDATA[Av.Ingnro Félix Sancho, 3P.I.las Salinas 11500 El Puerto de Santa Maria  España]]></address>
+        <address><![CDATA[Av.Ingnro Félix Sancho, 3P.I.las Salinas 11500 El Puerto de Santa Maria  Spain]]></address>
         <zip>11500</zip>
         <city>El Puerto de Santa Maria</city>
         <state>Cádiz</state>
         <phone>49 821 999 737-60</phone>
         <web>http://www.fairhall.es</web>
         <email>info@digitalxl.de</email>
-        <vocation>Científico</vocation>
-        <logo>//odoocdn.com/web/image/res.partner/5271/avatar_512/Fairhall%20Solutions%20S.L.?unique=44e73e5</logo>
+        <vocation>Science/Technology</vocation>
+        <logo>https://odoocdn.com/web/image/res.partner/5271/avatar_512/Fairhall%20Solutions%20S.L.?unique=44e73e5</logo>
         <description><![CDATA[FairhallSolutions is an international company with over 20years’ experience in the area of new technologies. Initial
 start was made in India and England though finally
 setting it bases in south of Spain permanently in 2006.
@@ -630,18 +631,18 @@ ERP, Gestor Documental, SEO, SEM.
 ]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/moduon-team-s-l-6300543?country_id=67">
         <name>Moduon Team, S. L.</name>
         <type>Ready</type>
-        <address><![CDATA[Calle Gredos 2, 1º B 28231 Las Rozas de Madrid M España]]></address>
+        <address><![CDATA[Calle Gredos 2, 1º B 28231 Las Rozas de Madrid M Spain]]></address>
         <zip>28231</zip>
         <city>Las Rozas de Madrid M</city>
         <state>Madrid</state>
         <phone>+34 911 16 87 77</phone>
         <web>https://www.moduon.es</web>
         <email>odoo@moduon.team</email>
-        <vocation>TI / Comunicaciones</vocation>
-        <logo>//odoocdn.com/web/image/res.partner/6300543/avatar_512/Moduon%20Team%2C%20S.%20L.?unique=71c14f9</logo>
+        <vocation>IT/Communication</vocation>
+        <logo>https://odoocdn.com/web/image/res.partner/6300543/avatar_512/Moduon%20Team%2C%20S.%20L.?unique=71c14f9</logo>
         <description><![CDATA[Moduon es un equipo multidisciplinar con 
 experiencia en Odoo desde al año 2011. Emprendedores, gerentes, 
 consultores, financieros, contables y técnicos. Nuestro
@@ -662,10 +663,10 @@ hacemos. Somos unos enamorados por la excelencia en la atención al
 cliente.]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/anubia-soluciones-en-la-nube-s-l-20204?country_id=67">
         <name>Anubía Soluciones en la nube, S.L.</name>
         <type>Ready</type>
-        <address><![CDATA[Calle Colón 26, 3er Piso, Oficina 1ª 36204 Vigo (Galicia)  España]]></address>
+        <address><![CDATA[Calle Colón 26, 3er Piso, Oficina 1ª 36204 Vigo (Galicia)  Spain]]></address>
         <zip>36204</zip>
         <city>Vigo (Galicia)</city>
         <state>Pontevedra</state>
@@ -673,16 +674,16 @@ cliente.]]></description>
         <web>http://www.anubia.es</web>
         <email>info@anubia.es</email>
         <vocation></vocation>
-        <logo>//odoocdn.com/web/image/res.partner/20204/avatar_512/Anub%C3%ADa%20Soluciones%20en%20la%20nube%2C%20S.L.?unique=822bed6</logo>
+        <logo>https://odoocdn.com/web/image/res.partner/20204/avatar_512/Anub%C3%ADa%20Soluciones%20en%20la%20nube%2C%20S.L.?unique=822bed6</logo>
         <description><![CDATA[Anubía es una consultora tecnológica que promueve la digitalización de las empresa a través de Odoo. Estudiamos tu proyecto de implantación de Odoo de forma personalizada, aportando valor a tu empresa analizando tus procesos y tratando de centralizarlos y optimizarlos a través de Odoo.
 Nuestra sede está en Vigo (Pontevedra), Galicia, pero realizamos implantaciones de Odoo en todo el estado, especialmente en A Coruña, Ourense, Santiago de Compostela, Lugo, Cataluña y Madrid.
 Nuestros más de 10 años de experiencia en Odoo y más de 75 proyectos de implantación de Odoo nos avalan. Proyectos realizados en toda clase de sectores: Alimentación, fabricación/producción, distribución, ingeniería, automoción, educación... Además de con referencias Enterprise, contamos con referencias Community.El servicio al cliente y la búsqueda de una gran relación coste/beneficio para el cliente nos definen.]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/iwan-21-networks-s-l-5821672?country_id=67">
         <name>Iwan 21 Networks S.L.</name>
         <type>Ready</type>
-        <address><![CDATA[Av. Reino Unido, 9 1ª Planta Mod. 10 41012 Seville SE España]]></address>
+        <address><![CDATA[Av. Reino Unido, 9 1ª Planta Mod. 10 41012 Seville SE Spain]]></address>
         <zip>41012</zip>
         <city>Seville SE</city>
         <state>Sevilla</state>
@@ -690,29 +691,29 @@ Nuestros más de 10 años de experiencia en Odoo y más de 75 proyectos de impla
         <web>http://iwan21.net</web>
         <email>comercial@iwan21.net;jacob.sanchez@iwan21.net</email>
         <vocation></vocation>
-        <logo>//odoocdn.com/web/image/res.partner/5821672/avatar_512/Iwan%2021%20Networks%20S.L.?unique=a52f71a</logo>
+        <logo>https://odoocdn.com/web/image/res.partner/5821672/avatar_512/Iwan%2021%20Networks%20S.L.?unique=a52f71a</logo>
         <description><![CDATA[En Iwan21 hacemos posible que los negocios puedan crecer, lograr una mayor eficiencia y productividad, gracias a la implementación de Odoo. Como especialistas en la implantación para empresas de este potente software, facilitamos todos los servicios necesarios para que tu marca pueda empezar a beneficiarse de las múltiples ventajas que Odoo aporta: centralización de procesos, automatización de acciones, gestión de los diferentes departamentos, etc.Desde Iwan21 también abordamos el mantenimiento de la plataforma y, además, disponemos de los siguientes servicios especializados en Odoo:Consultoría y análisisDesarrollo e integracionesFormación especializadaOdoo puede convertirse en la clave que revolucionará tu marca y te permitirá un importante aumento de la productividad.CONTACTA CON NOSOTROS Nuestros serviciosCon más de 20 años de trayectoria en el sector y experiencia en la implantación de soluciones de gestión empresarial tanto a nivel nacional como internacional. Nuestro granexpertise nos convierte en un partner ideal para que las empresas puedan alcanzar todas sus metas y objetivos. Trabajamos para encontrar respuestas a todas tus necesidades, personalizando nuestras acciones y aplicando las mejoras necesarias para que las funcionalidades de Odoo puedan adaptarse al máximo a las exigencias de tu organización. Y, para seguir aportando valor, ofrecemos soluciones de integración con otros softwares o herramientas empleados en tu empresa. De esta forma, abrimos las puertas a un sinfín de opciones que complementen la actividad empresarial de tu negocio.  Algunas opciones de integración en las que podemos ayudar a tu marca:Business IntellingenceAPIGamificaciónMensajería instantáneaGestión de flotaRed social corporativaEventosEncuestasSoporte onlineTienda onlineIntegración con Mautic para realizar labores de Inbound MarketingSOLICITA UNA DEMOUna ventaja exclusiva para nuestros clientes: alojamos Odoo en nuestro CPD propioDisponemos de un CPD propio para ofrecer a nuestros clientes el alojamiento necesario parasu instancia de Odoo. Geolocalizado en territorio español, es altamente beneficioso para elposicionamiento en Internet, la velocidad de las webs que alojamos y el cumplimiento de las leyes de protección de datos.Iwan21 es parte de Grupo Business GoEn Iwan21 formamos parte de Grupo Business Go, un conjunto de empresas de base tecnológica que cubren los distintos estadios relacionados con la digitalización de una empresa, aportando soluciones únicas e innovadoras. Así, podemos abarcar la práctica totalidad de necesidades relacionadas con la transformación digital, independientemente del tipo de empresa, tamaño y actividad económica.Las sinergias generadas entre las diferentes empresas que forman parte de Grupo Business Go, nos permiten encontrar soluciones mucho más globales, integrales y completas; de la mano de expertos y profesionales multidisciplinares con una dilatada experiencia y trayectoria en el sector TIC.Actualmente, nuestro grupo cuenta con sede en Sevilla y Madrid y nos encontramos en pleno proceso de expansión por todo el territorio nacional e internacional. Más de un centenar de empresas ya han confiado en Grupo Business Go.]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/nexta-digital-solutions-5708451?country_id=67">
         <name>Nexta Digital Solutions</name>
         <type>Ready</type>
-        <address><![CDATA[Camí Onda Cs Vell 2 12540 Vila-real CS España]]></address>
+        <address><![CDATA[Camí Onda Cs Vell 2 12540 Vila-real CS Spain]]></address>
         <zip>12540</zip>
         <city>Vila-real CS</city>
         <state>Castellón</state>
         <phone>+34964333170</phone>
         <web>https://nextads.es/</web>
         <email>juanvi@gruponexta.com</email>
-        <vocation>TI / Comunicaciones</vocation>
-        <logo>//odoocdn.com/web/image/res.partner/5708451/avatar_512/Nexta%20Digital%20Solutions?unique=ae80ce5</logo>
+        <vocation>IT/Communication</vocation>
+        <logo>https://odoocdn.com/web/image/res.partner/5708451/avatar_512/Nexta%20Digital%20Solutions?unique=ae80ce5</logo>
         <description><![CDATA[Ubicados en el área de Levante y Madrid aunque nuestro equipo no tiene fronteras, tenemos un largo recorrido como profesionales del sector IT, habiendo trabajado con otros ERP´s hemos apostado plenamente por ODOO como la mejor de las herramientas para solucionar los problemas de cualquier empresa de hoy, realizamos cualquier proyecto de gestión, asi como Ecommerce, portales B2B, portales para empleados y cualquier casuística de hoy día, trabajamos con metodologías actuales e innovadoras, lo último en tecnología y servicios puesto a disposición de nuestros clientes, hacemos cualquier desarrollo posible por dificil que parezca]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/praxya-soluciones-s-l-u-4130276?country_id=67">
         <name>PRAXYA SOLUCIONES S.L.U.</name>
         <type>Ready</type>
-        <address><![CDATA[Avenida Rey Don Juan Carlos I, 3 – Entreplanta Oficinas 102 y 105 Office 1 46900 Torrente (Valencia)  España]]></address>
+        <address><![CDATA[Avenida Rey Don Juan Carlos I, 3 – Entreplanta Oficinas 102 y 105 Office 1 46900 Torrente (Valencia)  Spain]]></address>
         <zip>46900</zip>
         <city>Torrente (Valencia)</city>
         <state>Valencia</state>
@@ -720,7 +721,7 @@ Nuestros más de 10 años de experiencia en Odoo y más de 75 proyectos de impla
         <web>http://www.praxya.com</web>
         <email>aramirez@praxya.es</email>
         <vocation></vocation>
-        <logo>//odoocdn.com/web/image/res.partner/4130276/avatar_512/PRAXYA%20SOLUCIONES%20S.L.U.?unique=f576512</logo>
+        <logo>https://odoocdn.com/web/image/res.partner/4130276/avatar_512/PRAXYA%20SOLUCIONES%20S.L.U.?unique=f576512</logo>
         <description><![CDATA[Praxya Soluciones es una empresa implantadora de Odoo con delegación en Madrid, Barcelona, Valencia y Baleares (Mallorca y Menorca).Pídenos una Demo de Odoo
 Por qué elegirnos cómo implantadores Odoo para tu negocioEn Praxya Soluciones trabajamos en equipo con el principal
 propósito de que empresas como la tuya puedan gestionarse de forma más
@@ -784,10 +785,10 @@ a mejorar la rentabilidad y productividad de tu negocio. ¿Hablamos?
 ContactanosReferencias]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/cravit-spain-7037661?country_id=67">
         <name>Cravit Spain</name>
         <type>Ready</type>
-        <address><![CDATA[Calle Méndez Núñez 2, 5B derecha 18003 Granada  España]]></address>
+        <address><![CDATA[Calle Méndez Núñez 2, 5B derecha 18003 Granada  Spain]]></address>
         <zip>18003</zip>
         <city>Granada</city>
         <state>Granada</state>
@@ -795,14 +796,14 @@ ContactanosReferencias]]></description>
         <web>https://www.cravit.nl/en</web>
         <email>jaime.jt@cravit.es</email>
         <vocation></vocation>
-        <logo>//odoocdn.com/web/image/res.partner/7037661/avatar_512/Cravit%20Spain?unique=006cced</logo>
+        <logo>https://odoocdn.com/web/image/res.partner/7037661/avatar_512/Cravit%20Spain?unique=006cced</logo>
         <description><![CDATA[Cravit Spain es parte de Cravit Group, un partner Gold de Odoo. Hemos realizado implantaciones en oficinas de más de 10 países.Estamos convencidos de que con Odoo hacemos funcionar mejor a las empresas. La facilidad de uso de Odoo es lo que lo hace posible. El hecho de que parezca sencillo, pero no lo es. Nos gusta ser honestos al respecto.Ayudamos a implantar Odoo con un enfoque realista a nivel nacional e internacional. Optimizamos los procesos de tu empresa y mostramos que Odoo funciona para todo el mundo. Lo hacemos posible. Somos Cravit y estaremos encantados de reunirnos para una introducción y presentación del sistema.Cravit Spain is part of Cravit Group, an Odoo Gold partner. We have deployed systems in offices from more than 10 countries. We are convinced that with Odoo we make organizations function better. The user-friendliness of Odoo makes this possible. That seems simple, but it isn't. We are very honest about that.  With our realistic approach we help to implement Odoo, both nationally and internationally. We optimize your processes and show that Odoo works for everyone. We make it happen. We are Cravit and are happy to come by for an introduction and demo.]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/nubistalia-s-l-21134?country_id=67">
         <name>NUBISTALIA S.L.</name>
         <type>Ready</type>
-        <address><![CDATA[Parque Tecnológico de Cantabria - Edificio 3000 39011 Santander  España]]></address>
+        <address><![CDATA[Parque Tecnológico de Cantabria - Edificio 3000 39011 Santander  Spain]]></address>
         <zip>39011</zip>
         <city>Santander</city>
         <state>Cantabria</state>
@@ -810,25 +811,25 @@ ContactanosReferencias]]></description>
         <web>http://www.odoo-ondemand.es</web>
         <email>mccourbis@gmail.com</email>
         <vocation></vocation>
-        <logo>//odoocdn.com/web/image/res.partner/21134/avatar_512/NUBISTALIA%20S.L.?unique=76f4504</logo>
+        <logo>https://odoocdn.com/web/image/res.partner/21134/avatar_512/NUBISTALIA%20S.L.?unique=76f4504</logo>
         <description><![CDATA[📌 ¡Integramos, implementamos y customizamos!Ofrecemos un servicio tecnológico integral.Partimos del análisis de las necesidades del cliente, por muy complejos que sean sus procesos o industria, para posteriormente entregar un enfoque de la solución, formación técnica, planificación y soporte desde el momento del arranque del proyecto. Destacamos por nuestro experimentado equipo técnico. Capaces de realizar integraciones complejas, modificaciones y adaptaciones a medida, de asegurar una implantación correcta, con los módulos adecuados a las necesidades del cliente.Las premisas principales de nuestros proyectos son la sencillez, la rapidez y al menor coste posible.﻿
 Especialidades: ERP/CRM: Odoo, Inteligencia de Negocios: Pentaho, Comercio Electrónico, Gestión Documental: Alfresco, Reporting: Jasper, Desarrollos Web para dispositivos móviles.Trabajamos todos los sectores. Consulta nuestro vertical de empresas exportadoras. Odoo Empresas Importadoras | Nubistalia - Odoo (odoo-ondemand.es)
 
 ]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/amp-software-s-l-4734771?country_id=67">
         <name>AMP Software S.L.</name>
         <type>Ready</type>
-        <address><![CDATA[CL MARQUESA DE ARGUESO 16 28019 MADRID  España]]></address>
+        <address><![CDATA[CL MARQUESA DE ARGUESO 16 28019 MADRID  Spain]]></address>
         <zip>28019</zip>
         <city>MADRID</city>
         <state>Madrid</state>
         <phone>+34 914 73 04 85</phone>
-        <web>None</web>
+        <web></web>
         <email>jm.rodriguez@ampsoftware.com</email>
-        <vocation>TI / Comunicaciones</vocation>
-        <logo>//odoocdn.com/web/image/res.partner/4734771/avatar_512/AMP%20Software%20S.L.?unique=9759ea6</logo>
+        <vocation>IT/Communication</vocation>
+        <logo>https://odoocdn.com/web/image/res.partner/4734771/avatar_512/AMP%20Software%20S.L.?unique=9759ea6</logo>
         <description><![CDATA[AMP Software somos una empresa de software y servicios informáticos, fundada en 1993, con amplia experiencia en el sector, capaz de cubrir todas las posibles necesidades de nuestros clientes. Desde el software estándar y a medida, hasta la prestación de servicios “body shopping”, Open Source, pasando por todos los servicios adicionales de venta de hardware, mantenimiento de equipos, instalación de redes, diseño WEB , etc... Contamos en la actualidad con una plantilla de 25 personas, de las cuales 20 son técnicos programadores con una amplia experiencia en instalaciones/parametrizaciones de aplicaciohes de Gestión en nuestros clientes.AMP Software is an IT and software company founded in 1993 with a vast experience in the area, specialised in meeting all requirements of our customers. We develop standard and custom software, provide “body shopping” services, Open Source, and supplementary services related with hardware sales, maintenance, network installation, web design etc.
 We are currently an integrated team of 25
 customer-focused workers, 20 of them as software developers with a wide
@@ -837,10 +838,10 @@ our compromise to maintain the excellence of our customer-focused approach that
 AMP Software has been carried out since its establishment. ]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/herrera-sisternes-s-l-2170413?country_id=67">
         <name>Herrera Sisternes S.L.</name>
         <type>Ready</type>
-        <address><![CDATA[Calle Marqués de Sotelo 5, 1º-A 46002 Valencia  España]]></address>
+        <address><![CDATA[Calle Marqués de Sotelo 5, 1º-A 46002 Valencia  Spain]]></address>
         <zip>46002</zip>
         <city>Valencia</city>
         <state>Valencia</state>
@@ -848,38 +849,38 @@ AMP Software has been carried out since its establishment. ]]></description>
         <web>http://hsco.es/</web>
         <email>tsisternes@hsco.es vherrera@hsco.es</email>
         <vocation></vocation>
-        <logo>//odoocdn.com/web/image/res.partner/2170413/avatar_512/Herrera%20Sisternes%20S.L.?unique=c3b3a73</logo>
+        <logo>https://odoocdn.com/web/image/res.partner/2170413/avatar_512/Herrera%20Sisternes%20S.L.?unique=c3b3a73</logo>
         <description><![CDATA[¿Qué es HS&Co.?Somos una firma de consultoría de alta dirección que ayuda a las empresas a mejorar su desempeño y a afrontar sus principales retos en diversas áreas (desde la estrategia a las operaciones, pasando por la organización o la tecnología). Para ello aplicamos nuestro conocimiento y amplia experiencia internacional adaptada a las necesidades locales tanto de las empresas privadas como de las instituciones públicas con las que trabajamos.Nuestros servicios profesionales se estructuran en seis líneas de negocio, orientadas a ayudar a las empresas a aumentar su rentabilidad, crear valor y mejorar la gestión de riesgos.Consultoría: Construimos soluciones que aportan valor a nuestros clientes y generan ventajas sostenibles en el mercado.Finanzas Corporativas: Nuestra amplia experiencia económico-financiera nos permite aportar a las empresas un asesoramiento especializado en todo su ciclo del negocio.Sistemas de Información: Los servicios de implantación de sistemas tienen como finalidad principal facilitar a los clientes fluidez en la información que permita a los directivos contar con información unificada y en tiempo real para facilitar el proceso de  toma de decisiones.Tax & Legal: Somos expertos en asesoramiento legal y fiscal en cualquier disciplina, con profesionales especializados en cada sector de actividad.Incentivos Públicos: Asesoramos en procesos de obtención de incentivos públicos en forma de subvención, financiación a tipo de interés reducido, así como en la aplicación de deducciones y exenciones en el Impuesto de Sociedades por actividades de I+D+i y cesión de know-how.Gestión de Riesgos: Soluciones integrales para el manejo de incertidumbres y planeación estratégica de empresas.Gestión de Proyectos: Implementaciones exitosas de cambios de cualquier tipo (IT, organizacional, procesos etc.) a través de procesos estructurados y probados de manejo de proyectos.Outsourcing: Ofrecemos el servicio de externalización en la función gerencial administración y finanzas para facilitar a los clientes una ventaja competitiva y centrarse en su negocio.Formación: Colaboramos con entidades privadas y públicas en diferentes programas de formación para fomentar el espíritu emprendedor.Su trayectoria y experiencia con OdooEn HS&Co. somos expertos en el “acompañamiento” de la empresa y de su equipo humano. Nuestros socios y directores cuentan con más 25 años de experiencia en el ámbito de la alta dirección de conocidas compañías de diferentes industrias.En HS&Co. realizamos proyectos “llave en mano”: evaluamos los procesos de la compañía, analizamos los gaps, definimos los requerimientos necesarios, diseñamos la mejor solución y realizamos una implantación a la medida según especificaciones del cliente. Tenemos muy presentes sus necesidades y expectativas, así como la cultura y las especificidades de “cada casa”.Una vez implementada la herramienta Odoo y migrados los datos del cliente, se facilita un prototipo, para que el cliente pueda hacer pruebas y testear el programa, detectar y corregir posibles desviaciones. Una vez validada, previo al arranque con el nuevo sistema se realiza formación específica a los usuarios por áreas.Para el arranque se asigna un Consultor o varios (en función del alcance del proyecto) que acompaña durante todo el proceso de arranque, puede ser telefónica o presencial, en función de la índole del proyectoTenemos clientes de diversos sectores, salud, textil, educación, retail, comunicación y gráficos, alimentación, restauración, turismo, mantenimiento, industria, servicios, tecnología, agricultura, comercio, etc.Información de contacto HS&Co.www.hsco.esemail: info@hsco.esTel.: +34 961 152 189
 ]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/ideas-positivas-group-s-l-6618455?country_id=67">
         <name>IDEAS POSITIVAS GROUP S.L.</name>
         <type>Ready</type>
-        <address><![CDATA[None]]></address>
-        <zip>None</zip>
-        <city>None</city>
-        <state>None</state>
+        <address><![CDATA[]]></address>
+        <zip></zip>
+        <city></city>
+        <state></state>
         <phone></phone>
-        <web>None</web>
+        <web></web>
         <email></email>
         <vocation></vocation>
-        <logo>None</logo>
-        <description><![CDATA[None]]></description>
+        <logo></logo>
+        <description><![CDATA[]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/ingesit-sistemas-s-l-6507676?country_id=67">
         <name>Ingesit Sistemas, S.L.</name>
         <type>Ready</type>
-        <address><![CDATA[Avenida Txorierri, 9 - Edificio Arteaga Dpto. 402 48160 Derio BI España]]></address>
+        <address><![CDATA[Avenida Txorierri, 9 - Edificio Arteaga Dpto. 402 48160 Derio BI Spain]]></address>
         <zip>48160</zip>
         <city>Derio BI</city>
         <state>Vizcaya</state>
         <phone>+34 610 52 33 63</phone>
-        <web>None</web>
+        <web></web>
         <email>lmanzanedo@ingeos.es   	j.camiruaga@ingeos.es</email>
         <vocation></vocation>
-        <logo>//odoocdn.com/web/image/res.partner/6507676/avatar_512/Ingesit%20Sistemas%2C%20S.L.?unique=760ad59</logo>
+        <logo>https://odoocdn.com/web/image/res.partner/6507676/avatar_512/Ingesit%20Sistemas%2C%20S.L.?unique=760ad59</logo>
         <description><![CDATA[INGESIT está formado por un equipo de profesionales con más de 20 años de experiencia en entornos empresariales e instituciones públicas.Nuestro objetivo es proporcionar un servicio profesional basado en la calidad y la eficacia que permita a nuestros clientes considerarnos su socio tecnológico.
 
 Para garantizar la calidad del servicio ofertado, INGESIT cuenta con la experiencia contrastada de sus consultores especializados en el tratamiento de la información y las necesidades de gestión de las empresas, y con un equipo de ingenieros de sistemas altamente cualificados cubriendo así todas las necesidades en el ámbito tecnológico. 
@@ -889,40 +890,40 @@ En Ingesit somos conscientes de la evolución tecnológica y por ello la formac
 INGESIT está formado por un equipo de profesionales con más de 20 años de experiencia en entornos empresariales e instituciones públicas.Nuestro objetivo es proporcionar un servicio profesional basado en la calidad y la eficacia que permita a nuestros clientes considerarnos su socio tecnológico.Más de 20 años de EXPERIENCIASOLUCIONES TIC personalizadasEspecialistas en INTEGRACIÓN de Sistemas InformáticosEquipo MULTIDISCIPLINAR ágil y accesibleServicio INTEGRAL de CALIDAD]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/pentec-s-l-3248443?country_id=67">
         <name>PENTEC S.L</name>
         <type>Ready</type>
-        <address><![CDATA[Calle Antigua Senda Senent 8, 4ª Planta 46023 Valencia  España]]></address>
+        <address><![CDATA[Calle Antigua Senda Senent 8, 4ª Planta 46023 Valencia  Spain]]></address>
         <zip>46023</zip>
         <city>Valencia</city>
         <state>Valencia</state>
         <phone>0034963937433</phone>
         <web>http://www.pentec.es/</web>
         <email>admon@pentec.es  </email>
-        <vocation>TI / Comunicaciones</vocation>
-        <logo>//odoocdn.com/web/image/res.partner/3248443/avatar_512/PENTEC%20S.L?unique=2cc86d4</logo>
+        <vocation>IT/Communication</vocation>
+        <logo>https://odoocdn.com/web/image/res.partner/3248443/avatar_512/PENTEC%20S.L?unique=2cc86d4</logo>
         <description><![CDATA[PENTEC es una empresa valenciana de TI con más de 20 años de experiencia en análisis, desarrollo y gestión de proyectos. Contamos con una plantilla de 70Trabajadores experimentados en todo tipo de tecnologías, lo que constituye una garantía de éxito para cualquier proyecto. Disponemos de un grupo detrabajo especializado en Odoo que ha realizado implantaciones en empresas de distintos sectores (seguros, educación, consultoría, institucionespúblicas). Somos principalmente una empresa de desarrollo de software, lo que nos permite abordar proyectos complejos que requieran integraciones con otros sistemas o el desarrollo de funcionalidades a medida.Si su empresa o institución está buscando un experimentado Partner de Odoo con capacidad para implantar soluciones avanzadas, contacte con nosotros y nuestros consultores de negocio le orientarán sobre las mejores alternativas disponibles.]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/i2t-consultors-en-informatica-i-innovacio-tecnologica-s-l-4588046?country_id=67">
         <name>i2T Consultors en informatica i innovacio tecnologica, S.L.</name>
         <type>Ready</type>
-        <address><![CDATA[C/ Puigterra de Baix,5-9 1r 08241 Manresa B España]]></address>
+        <address><![CDATA[C/ Puigterra de Baix,5-9 1r 08241 Manresa B Spain]]></address>
         <zip>08241</zip>
         <city>Manresa B</city>
         <state>Barcelona</state>
         <phone>+34 623 02 36 04</phone>
-        <web>None</web>
+        <web></web>
         <email>lead@i2tsite.com ,  dsarda@i2tsite.com</email>
-        <vocation>TI / Comunicaciones</vocation>
-        <logo>//odoocdn.com/web/image/res.partner/4588046/avatar_512/i2T%20Consultors%20en%20informatica%20i%20innovacio%20tecnologica%2C%20S.L.?unique=3f0c6f4</logo>
+        <vocation>IT/Communication</vocation>
+        <logo>https://odoocdn.com/web/image/res.partner/4588046/avatar_512/i2T%20Consultors%20en%20informatica%20i%20innovacio%20tecnologica%2C%20S.L.?unique=3f0c6f4</logo>
         <description><![CDATA[i2T es una empresa de consultoría y servicios en tecnologías de la información. Nace en 2008 con la misión de acompañar a las PYMES. Nuestro objetivo como Odoo partner oficial es proporcionar soluciones adecuadas a cada necesidad, utilizando tecnologías y metodologías avanzadas gracias a la plataforma de gestión empresarial Odoo.I2T is an IT consulting and services Company. It was founded in 2008 for supporting PYMES.Our mission as an Odoo official partner is to provide solutions for every need using advances technologies and methodologies due to Odoo business management platform]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/eticco-freelosophy-s-l-1099633?country_id=67">
         <name>Éticco Freelosophy, S.L.</name>
         <type>Ready</type>
-        <address><![CDATA[Carretera de la Estación de Viella Polígono de Monsagre, Nave 2, 2B 33429 Viella, Siero  España]]></address>
+        <address><![CDATA[Carretera de la Estación de Viella Polígono de Monsagre, Nave 2, 2B 33429 Viella, Siero  Spain]]></address>
         <zip>33429</zip>
         <city>Viella, Siero</city>
         <state>Asturias</state>
@@ -930,14 +931,14 @@ INGESIT está formado por un equipo de profesionales con más de 20 años de ex
         <web>http://www.eticco.es</web>
         <email>jesus.cases@eticco.es daniel.izquierdo@eticco.es</email>
         <vocation></vocation>
-        <logo>//odoocdn.com/web/image/res.partner/1099633/avatar_512/%C3%89ticco%20Freelosophy%2C%20S.L.?unique=9aaed96</logo>
+        <logo>https://odoocdn.com/web/image/res.partner/1099633/avatar_512/%C3%89ticco%20Freelosophy%2C%20S.L.?unique=9aaed96</logo>
         <description><![CDATA[Éticco Freelosophy es una empresa de consultoría y desarrollo de software, especializada en el asesoramiento para la elección de la herramienta o tecnología Open Source que más valor aporte a las necesidades de cada proyecto, y en la configuración, personalización y/o desarrollo de las mismas.En Éticco Freelosophy aspiramos a convertirnos en el socio tecnológico de nuestros clientes, aportando su conocimiento y experiencia para diseñar los cimientos tecnológicos de cada empresa. Si en una organización se preguntan por qué y cómo afrontar un problema mediante las nuevas tecnologías, nuestros servicios de consultoría proporcionan la respuesta.Desde nuestra sede en Asturias, trabajamos con empresas, grandes y pequeñas, de todo el país. Queremos ser el socio tecnológico de aquellos que acudan a nosotros en busca de ayuda.Detectamos las necesidades de tu empresa y proponemos soluciones digitales apoyados en la tecnología Open Source. Y te ofrecemos asesoramiento especializado para encontrar soluciones a los problemas de gestión o necesidades de digitalización.Supported in Open Source technology we design, develop and distribute computer applications tailored to the needs of our customers, as well as advise and guide them in the improvement of their resources. We want to be, in short, the technological partner of those who come to us for help. From our headquarters in Asturias, we work with companies, large and small, from all over the country.]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/altertecnia-ingenieria-s-l-5286644?country_id=67">
         <name>ALTERTECNIA Ingeniería, S.L.</name>
         <type>Ready</type>
-        <address><![CDATA[Ronda Maiols nº 1 local 119 (EDIFICIO BMC) 08192 Sant Quirze del Vallès (Barcelona)  España]]></address>
+        <address><![CDATA[Ronda Maiols nº 1 local 119 (EDIFICIO BMC) 08192 Sant Quirze del Vallès (Barcelona)  Spain]]></address>
         <zip>08192</zip>
         <city>Sant Quirze del Vallès (Barcelona)</city>
         <state>Barcelona</state>
@@ -945,55 +946,55 @@ INGESIT está formado por un equipo de profesionales con más de 20 años de ex
         <web>https://altertecnia.com/</web>
         <email>jesus.salillas@altertecnia.com</email>
         <vocation></vocation>
-        <logo>//odoocdn.com/web/image/res.partner/5286644/avatar_512/ALTERTECNIA%20Ingenier%C3%ADa%2C%20S.L.?unique=c377b33</logo>
+        <logo>https://odoocdn.com/web/image/res.partner/5286644/avatar_512/ALTERTECNIA%20Ingenier%C3%ADa%2C%20S.L.?unique=c377b33</logo>
         <description><![CDATA[ALTERTECNIA es una empresa de ingeniería y servicios, fundada en 2008 por profesionales provenientes de uno de los sectores más evolucionados a nivel de producción e ingeniería: el sector de la automoción.Somos una empresa innovadora y dinámica, con una gran experiencia en proyectos industriales. En constante evolución y desarrollo de las últimas tecnologías que nos permiten adaptarnos a los nuevos modelos de negocio de nuestros diversos clientes.]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/mcr-solutions-business-software-sl-2318475?country_id=67">
         <name>MCR Solutions Business Software SL</name>
         <type>Ready</type>
-        <address><![CDATA[Paseo del Ferrocarril, 339, 4a Planta, Castelldefels 08860 Barcelona  España]]></address>
+        <address><![CDATA[Paseo del Ferrocarril, 339, 4a Planta, Castelldefels 08860 Barcelona  Spain]]></address>
         <zip>08860</zip>
         <city>Barcelona</city>
         <state>Barcelona</state>
         <phone>+34 933 74 10 53</phone>
         <web>https://www.mcr-solutions.com/</web>
         <email>monica.vazquez@mcr-solutions.com</email>
-        <vocation>TI / Comunicaciones</vocation>
-        <logo>//odoocdn.com/web/image/res.partner/2318475/avatar_512/MCR%20Solutions%20Business%20Software%20SL?unique=7fcff98</logo>
+        <vocation>IT/Communication</vocation>
+        <logo>https://odoocdn.com/web/image/res.partner/2318475/avatar_512/MCR%20Solutions%20Business%20Software%20SL?unique=7fcff98</logo>
         <description><![CDATA[
 We are a technology consultancy that provides efficient and simple solutions to the business.  Our mission is to turn complex technology into optimal business solutions for our clients. We offer ERP's, digital platforms, budgeting solutions, modern and agile technology.
 
 ]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/rrm-consultoria-5137657?country_id=67">
         <name>RRM consultoria</name>
         <type>Ready</type>
-        <address><![CDATA[Tres Creus, 236 08203 Sabadell  España]]></address>
+        <address><![CDATA[Tres Creus, 236 08203 Sabadell  Spain]]></address>
         <zip>08203</zip>
         <city>Sabadell</city>
         <state>Barcelona</state>
         <phone>+34 658261209 (David) +34 657891689 (Juan Pedro)</phone>
-        <web>None</web>
+        <web></web>
         <email>david.cantador@rrmconsultoria.es</email>
-        <vocation>TI / Comunicaciones</vocation>
-        <logo>//odoocdn.com/web/image/res.partner/5137657/avatar_512/RRM%20consultoria?unique=025a8af</logo>
+        <vocation>IT/Communication</vocation>
+        <logo>https://odoocdn.com/web/image/res.partner/5137657/avatar_512/RRM%20consultoria?unique=025a8af</logo>
         <description><![CDATA[Nuestro éxito es conocer al cliente y atenderlo cuando lo necesita.Los trabajadores de RRM somos apasionados de nuestro trabajo.Empresa dedicada a mejorar el rendimiento de las empresas, avalados por la experiencia de sus técnicos con más de 10 años.Trabajamos todas las áreas, somos especialistas en las áreas de fabricación, proyectos, finanzas, fiscal (IVA, SII),importación de datos contables y de otros software.Consultoría, asesoramiento , formación, desarrollo, programación e implementación de proyectos tecnológicos, ERP.¿Tienes un problema? Te ofrecemos la solución.]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/ymant-servicios-informaticos-sl-1311522?country_id=67">
         <name>Ymant Servicios Informaticos SL</name>
         <type>Ready</type>
-        <address><![CDATA[c/ Guardia Civil 26, bajo Bajo Izquierda 46020 Valencia  España]]></address>
+        <address><![CDATA[c/ Guardia Civil 26, bajo Bajo Izquierda 46020 Valencia  Spain]]></address>
         <zip>46020</zip>
         <city>Valencia</city>
         <state>Valencia</state>
         <phone>+34 961 10 20 10</phone>
         <web>http://www.ymant.com/</web>
         <email>comercial@ymant.com</email>
-        <vocation>TI / Comunicaciones</vocation>
-        <logo>//odoocdn.com/web/image/res.partner/1311522/avatar_512/Ymant%20Servicios%20Informaticos%20SL?unique=db4166e</logo>
+        <vocation>IT/Communication</vocation>
+        <logo>https://odoocdn.com/web/image/res.partner/1311522/avatar_512/Ymant%20Servicios%20Informaticos%20SL?unique=db4166e</logo>
         <description><![CDATA[
 
 
@@ -1001,18 +1002,18 @@ Profesionales certificados y premiados. Creciendo sin límite desde 2006.YMANT |
 ]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/grant-thornton-advisory-s-l-p-8641825?country_id=67">
         <name>GRANT THORNTON ADVISORY S.L.P.</name>
         <type>Ready</type>
-        <address><![CDATA[Paseo de la Castellana 81 28046 Madrid  España]]></address>
+        <address><![CDATA[Paseo de la Castellana 81 28046 Madrid  Spain]]></address>
         <zip>28046</zip>
         <city>Madrid</city>
         <state>Madrid</state>
         <phone>+34 91 576 39 99 (centralita) / +34 91 399 41 19 (directo)</phone>
         <web>http://www.grantthornton.es/</web>
         <email>miguelangel.rodriguez@es.gt.com;leads.odoo@es.gt.com</email>
-        <vocation>Científico</vocation>
-        <logo>//odoocdn.com/web/image/res.partner/8641825/avatar_512/GRANT%20THORNTON%20ADVISORY%20S.L.P.?unique=bee771f</logo>
+        <vocation>Science/Technology</vocation>
+        <logo>https://odoocdn.com/web/image/res.partner/8641825/avatar_512/GRANT%20THORNTON%20ADVISORY%20S.L.P.?unique=bee771f</logo>
         <description><![CDATA[BEST STARTER EMEA 2018Grant Thornton es una firma que proporciona servicios de auditoría, consultoría, asesoramiento financiero, fiscal y  legal. Somos la firma en España de Grant Thornton International, una de las organizaciones líderes en el sector de la auditoría y los servicios especializados a empresas.
 Tenemos una forma distinta de trabajar basada en una estrecha colaboración con el cliente en la que nuestros socios y directores se comprometen directamente en el trabajo. Nuestro concepto de servicio consiste en trabajar codo con codo con empresarios, directivos y sus equipos, aportando especialistas con experiencia y visión empresarial que entienden lo que les cuenta el cliente, se ponen en su lugar y añaden valor real. Articulamos el equipo multidisciplinar y trasversal que necesita cada cliente porque queremos ayudar a las empresas a crecer y evolucionar.Brochure IT
 Consulting and Innovation Services​
@@ -1023,10 +1024,10 @@ Brochure ERP una solución para la transformación digital_ Español​
 Brochure IT Consulting_Consultoría de negocio e innovación_Español​]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/marlon-falcon-hernandez-6368519?country_id=67">
         <name>Marlon Falcon Hernandez</name>
         <type>Ready</type>
-        <address><![CDATA[Benifairo de les valls, Finca 3083, Avenida de les valls 17 46511 valencia V España]]></address>
+        <address><![CDATA[Benifairo de les valls, Finca 3083, Avenida de les valls 17 46511 valencia V Spain]]></address>
         <zip>46511</zip>
         <city>valencia V</city>
         <state>Valencia</state>
@@ -1034,14 +1035,14 @@ Brochure IT Consulting_Consultoría de negocio e innovación_Español​]]></des
         <web>http://www.marlonfalcon.com</web>
         <email>mfalconapps@gmail.com</email>
         <vocation></vocation>
-        <logo>//odoocdn.com/web/image/res.partner/6368519/avatar_512/Marlon%20Falcon%20Hernandez?unique=71c14f9</logo>
+        <logo>https://odoocdn.com/web/image/res.partner/6368519/avatar_512/Marlon%20Falcon%20Hernandez?unique=71c14f9</logo>
         <description><![CDATA[Autónomo que presta servicios de Odoo, con más de 15 años de experiencia en ERP. Ha realizado más de 200 proyectos de implementación de Odoo en varios países y ha participado en el desarrollo de más de 1000 módulos en versiones desde la 8 a la más actual. Contiene una serie de verticales de Odoo desarrolladas en áreas como Construcción (Odoo BIM), Salud (Odoo SIS), Gestión de Crédito (Credit Pro), Mantenimiento y otros. Ha colaborado con otros partners en proyectos donde se implementan sus verticales.]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/port-cities-espana-6492028?country_id=67">
         <name>Port Cities España</name>
         <type>Ready</type>
-        <address><![CDATA[Calle Mozárabes 20 04720 Roquetas de Mar AL España]]></address>
+        <address><![CDATA[Calle Mozárabes 20 04720 Roquetas de Mar AL Spain]]></address>
         <zip>04720</zip>
         <city>Roquetas de Mar AL</city>
         <state>Almería</state>
@@ -1049,22 +1050,22 @@ Brochure IT Consulting_Consultoría de negocio e innovación_Español​]]></des
         <web>https://portcities.net/</web>
         <email>espana@portcities.net</email>
         <vocation></vocation>
-        <logo>//odoocdn.com/web/image/res.partner/6492028/avatar_512/Port%20Cities%20Espa%C3%B1a?unique=760ad59</logo>
+        <logo>https://odoocdn.com/web/image/res.partner/6492028/avatar_512/Port%20Cities%20Espa%C3%B1a?unique=760ad59</logo>
         <description><![CDATA[Partner Odoo favorito de las grandes empresasEn Port Cities nos enorgullecemos de ser reconocidos como el Partner Odoo más grande del mundo. Después de establecernos en 1997, descubrimos Odoo en su etapa más temprana (2014). Desde entonces, trabajamos exclusivamente implementando Odoo, con un crecimiento exponencial alrededor del planeta. Tenemos presencia en Australia, Colombia, España, Francia, Hong Kong, Indonesia, Japón, Malasia, México, Reino Unido, Singapur, Tailandia y Vietnam. Nos avalan más de 350 implementaciones exitosas en todo el mundo. Nuestra amplia experiencia profesional nos permite ofrecer ventajas únicas para tu empresa, como un equipo de más de 200 especialistas y con soporte 24H para que tú empresa esté siempre respaldada.  Nuestros ReconocimientosVer la publicación oficial 2019.Ver la publicación oficial 2020. Ver la publicación oficial 2021.  ¿Qué más podemos hacer por tu empresa?Nuestros analistas estarán permanentemente en contacto para entender las necesidades de tu negocio. Diseñaremos un plan de implementación a la medida para ofrecerte la máxima relación costo/beneficio. Desarrollaremos módulos específicos para tus necesidades. Ofrecemos soluciones que cubren todos los flujos necesarios para la gestión óptima de tus operaciones y elaboración de informes: Cadena de suministroComercio electrónicoContabilidad financiera y analíticaCRMFabricaciónGestión de documentosLogísticaMarketingPunto de venta Nuestro equipo tiene experiencia implementando en los siguientes sectores:AgriculturaAlimentos y bebidasComercio al mayoreo y menudeoComercio electrónicoLogísticaManufacturaONGPetróleo e industrias pesadasSaludSegurosServicios TITextilConsulta nuestras referencias y solicita una reunión para atender tus necesidades. CONTÁCTENOS Nuestros principales clientes]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/zitycard-1098556?country_id=67">
         <name>Zitycard</name>
         <type>Ready</type>
-        <address><![CDATA[Rodrigo Diaz de Vivar, 6 50006 Zaragoza  España]]></address>
+        <address><![CDATA[Rodrigo Diaz de Vivar, 6 50006 Zaragoza  Spain]]></address>
         <zip>50006</zip>
         <city>Zaragoza</city>
         <state>Zaragoza</state>
         <phone>+34 976 377 384</phone>
         <web>http://zitycard.es</web>
         <email>rpueyo@zitycard.com , marketing@zitycard.com</email>
-        <vocation>TI / Comunicaciones</vocation>
-        <logo>//odoocdn.com/web/image/res.partner/1098556/avatar_512/Zitycard?unique=650114b</logo>
+        <vocation>IT/Communication</vocation>
+        <logo>https://odoocdn.com/web/image/res.partner/1098556/avatar_512/Zitycard?unique=650114b</logo>
         <description><![CDATA[Zitycard es una empresa joven, dinámica,
 altamente cualificada y especializada en desarrollos y soluciones
 contactless y medios de pago, biometría y en
@@ -1076,10 +1077,10 @@ Estamos certificados en ISO 9001:2015 de Calidad, en ENS-2021/0025 por el Esquem
 ]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/brain-tec-spain-s-l-995356?country_id=67">
         <name>brain-tec Spain S.L.</name>
         <type>Ready</type>
-        <address><![CDATA[Calle Velazquez 138 Bloque 2, Bajo B 28006 Madrid  España]]></address>
+        <address><![CDATA[Calle Velazquez 138 Bloque 2, Bajo B 28006 Madrid  Spain]]></address>
         <zip>28006</zip>
         <city>Madrid</city>
         <state>Madrid</state>
@@ -1087,38 +1088,38 @@ Estamos certificados en ISO 9001:2015 de Calidad, en ENS-2021/0025 por el Esquem
         <web>http://www.braintec-group.com</web>
         <email>info@braintec-group.com</email>
         <vocation></vocation>
-        <logo>//odoocdn.com/web/image/res.partner/995356/avatar_512/brain-tec%20Spain%20S.L.?unique=0e73384</logo>
+        <logo>https://odoocdn.com/web/image/res.partner/995356/avatar_512/brain-tec%20Spain%20S.L.?unique=0e73384</logo>
         <description><![CDATA[brain-tec Grupo, con oficinas en Madrid, Castello de la Plana, Zúrich, Basel, Brig, y Stuttgart, es actualmente una de las tres compañías con mayor experiencia en Odoo de todo el mundo (galardonada con el premio Best Odoo Partner EMEA 2016, 2020 & 2021). Nuestras soluciones de software para su compañía. Su Partner para proyectos de IT de cualquier envergadura. brain-tec Grupo es una compañía activa a nivel internacional. Nuestra base para cualquier planteamiento es un Business-Software abierto, flexible, eficiente y económico. Somos especialistas con amplia experiencia en analizar las necesidades de su compañía y de retratar el Business-Software correcto así como diseñar y analizar los workflows/procesos que tiene a su disposición. Desde el análisis, la concepción, introducción, formación, asistencia técnica y el funcionamiento de un extenso Enterprise-Resource-Planning (ERP) o sistema de Business Intelligence (BI) adaptados al mercado de las PYMES, brain-tec Grupo les ofrece la solución adecuada, personalizada y hecha a medida que ustedes necesitan.Currently brain-tec Group, with offices in Madrid, Castello de la Plana, Zurich, Basel, Brig and Stuttgart falls into the group of the most 3 Odoo expert companies in the world, currently employing more than 48 people in Odoo. brain-tec Group certified Gold Partner provides fully integrated applications that enable you and your suppliers to automate Odoo (ERP), Business Intelligence (BI), document management (DMS), etc. brain-tec Group is the gold partner that you need. brain-tec has positioned itself since 2000 as a software company; it offers innovative, open, flexible and cost-based business to open source solutions to all companies in the European Economic Area. brain-tec Group helps deliver an incredible experience with our products. If you need a plugin built, a deployment tuned, a configuration, a training, help with setup or coaching on going agile, we have got the expert for the job. Do not hesitate to contact us about your business.brain-tec Groupe, avec plus de 48 employés répartis entre ses bureaux de Madrid, Castello de la Plana, Stuttgart, Zürich, Basel et Brig, appartient au top 3 mondial des compagnies expertes pour Odoo. brain-tec Groupe est votre “Odoo Gold Partner” certifié pour tous projets d’intégrations d’Odoo (ERP), de business intelligence (BI) ou de gestion électronique de documents (DMS). brain-tec se positionne depuis 2000 comme fournisseur de logiciels innovants, flexibles et open-source répondants aux besoins métiers des sociétés de l’Espace économique européen. Planification, développement, configuration, formation, support ou même hosting; brain-tec vous offre un portefeuille de services très complet pour développer votre business. Nos experts restent volontiers à votre disposition pour toutes questions. brain-tec Group gehört mit Standorten in Madrid, Castello de la Plana, Zürich, Basel, Brig und Stuttgart zu den 3 weltbesten Odoo Experten und beschäftigt heute mehr als 48 Odoo Mitarbeitende. brain-tec Group ist Ihr professioneller Gold Odoo Partner, wenn es um die erfolgreiche Integration von Odoo (ERP), Business-Intelligence (BI) oder Dokument Management (DMS) Projekte geht. brain-tec Group positioniert sich seit dem Jahr 2000 als Software-Unternehmen, welches innovative, offene, flexible und wirtschaftliche Businesslösungen auf Open Source Basis für Unternehmen im europäischen Wirtschaftsraum anbietet. Von der Planung, Entwicklung, Konfiguration, Schulung, Support bis zum Hosting bietet brain-tec Group Ihnen das komplette Leistungsportfolio aus einer Hand an. Für Fragen stehen Ihnen unsere erfahrenen Experten sehr gerne zur Verfügung. 
 ]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/avancem-amb-voste-s-l-3620209?country_id=67">
         <name>AVANCEM AMB VOSTÈ, S.L.</name>
         <type>Ready</type>
-        <address><![CDATA[None]]></address>
-        <zip>None</zip>
-        <city>None</city>
-        <state>None</state>
+        <address><![CDATA[]]></address>
+        <zip></zip>
+        <city></city>
+        <state></state>
         <phone></phone>
-        <web>None</web>
+        <web></web>
         <email></email>
         <vocation></vocation>
-        <logo>None</logo>
-        <description><![CDATA[None]]></description>
+        <logo></logo>
+        <description><![CDATA[]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/conecta-wireless-s-l-7336356?country_id=67">
         <name>Conecta Wireless S.L.</name>
         <type>Ready</type>
-        <address><![CDATA[Barcelona, Spain Can Rabia 3-5, Planta 4 08017 Barcelona  España]]></address>
+        <address><![CDATA[Barcelona, Spain Can Rabia 3-5, Planta 4 08017 Barcelona  Spain]]></address>
         <zip>08017</zip>
         <city>Barcelona</city>
         <state>Barcelona</state>
         <phone>+34 932 05 86 41</phone>
-        <web>None</web>
+        <web></web>
         <email>comercial@conecta-wireless.com</email>
         <vocation></vocation>
-        <logo>//odoocdn.com/web/image/res.partner/7336356/avatar_512/Conecta%20Wireless%20S.L.?unique=e224732</logo>
+        <logo>https://odoocdn.com/web/image/res.partner/7336356/avatar_512/Conecta%20Wireless%20S.L.?unique=e224732</logo>
         <description><![CDATA[Conecta Wireless es un Partner Global de Servicios para Empresas.Le invitamos a descubrir junto a nuestros Clientes y Socios cómo podemos acelerar su transición Digital, a través de acciones enfocadas y proyectos ágiles, sin necesidad de grandes inversiones, en áreas como:- Impulsar la eficiencia con Software de Gestión ERP y Automatización de Procesos- Desplegando Omnichannel en la Nube con soluciones CRM totalmente integradas- Acelerar su Inteligencia de Negocio con la gestión de datos y la analítica avanzada- Humanizar las relaciones con sus clientes creando una experiencia de voz más atractiva  - Reducir los costes de telecomunicaciones e infraestructuras con nuevas herramientas- Comprender cómo aprovechar las aplicaciones móviles y la hiperinteligencia de la información- Transformar la cadena de valor de su negocio con plataformas de BigData e IoTSeguro que verá lo profundo que vivimos la innovación empresarial como base de nuestro ecosistema, siempre comprometidos con encontrar la solución adecuada para cada nuevo y desafiante proyecto.
 ---------------------------------------------------------------------------------
 Conecta Wireless is a Global Service Partner for Enterprises.We invite you to discover together with our Customers & Partners how we can accelerate your transition to Digital, through focused actions and agile projects, without the need for large investments, in areas such as:- Boosting efficiency with ERP Management Software and Processes Automation- Deploying a Cloud Omnichannel with fully integrated CRM solutions- Accelerating your Business Intelligence with Data Management and Advanced Analytics- Humanizing your customers relationships creating a more engaging voice experience
@@ -1128,25 +1129,25 @@ Conecta Wireless is a Global Service Partner for Enterprises.We invite you to di
 Mobile Apps and Hyper Intelligence may transform your Information Strategy- Transforming your Business value chain with BigData and IoT enabling platformsFor sure you will see how deep we live business innovation as the basis our ecosystem, always committed to find the right solution to every new and challenging project.---------------------------------------------------------------------------------Conecta Wireless est un partenaire mondial de Services pour Entreprises.Nous vous invitons à découvrir, avec nos clients et partenaires, comment nous pouvons accélérer votre transition digitale, avec des actions ciblées et des projets agiles, sans avoir besoin de gros investissements, dans des domaines tels que :- L'amélioration de l'efficacité grâce aux logiciels de gestion ERP et à l'automatisation des processus.- Déploiement Cloud Omnichannel avec une solution CRM totalement intégrée.- Accélérer votre veille stratégique grâce à la gestion des données et à l'analyse avancée.- Humaniser les relations avec vos clients en créant une expérience vocale plus attrayante.  - Réduire les coûts de télécommunication et d'infrastructure grâce à des nouvelles techniques.- Comprendre comment les mobile apps et l'hyper intelligence peuvent transformer l'information.- Transformer la chaîne de valeur de votre entreprise grâce aux plateformes BigData et IoT.Vous verrez certainement à quel point nous vivons l'innovation commerciale comme la base de notre écosystème, en nous engageant toujours à trouver la bonne solution à chaque projet nouveau et difficile.]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/g97-tech-marketing-s-l-7651276?country_id=67">
         <name>G97 TECH MARKETING S.L.</name>
         <type>Ready</type>
-        <address><![CDATA[Rambla Catalunya 57 08007 Barcelona  España]]></address>
+        <address><![CDATA[Rambla Catalunya 57 08007 Barcelona  Spain]]></address>
         <zip>08007</zip>
         <city>Barcelona</city>
         <state>Barcelona</state>
         <phone>+34 628 45 97 46</phone>
-        <web>None</web>
+        <web></web>
         <email>juan@growth97.com</email>
         <vocation></vocation>
-        <logo>//odoocdn.com/web/image/res.partner/7651276/avatar_512/G97%20TECH%20MARKETING%20S.L.?unique=3ea6876</logo>
+        <logo>https://odoocdn.com/web/image/res.partner/7651276/avatar_512/G97%20TECH%20MARKETING%20S.L.?unique=3ea6876</logo>
         <description><![CDATA[El error más común al implementar un ERP en tu empresa: hacerlo sin intencionalidad. Cada día hablamos con decenas de empresas que trabajan sin un objetivo claro ni se preguntan el por qué de las cosas.¿Para qué necesitas un ERP? ¿Cuáles son los objetivos que quieres conseguir? ¿Cómo va a convivir con los otros sistemas en tu empresa? ¿Qué áreas son las más prioritarias a desarrollar en tu ERP?En G97 operamos con mentalidad de fundador: tratamos tu empresa cómo si fuese nuestra. Este principio, junto a nuestros consultores especializados en tecnología, marketing y negocio, nos permite ofrecerte algo poco común: actuar como la combinación de un CTO, CMO y COO, asegurándonos así que toda iniciativa esté alineada a tus objetivos empresariales.Clientes cómo Almirall, Mistol, o Meliá ya han apostado por esta propuesta de valor, y es el motivo por el cual universidades (cómo la Universidad de Barcelona) y escuelas de negocio (ThePowerMBA, Nuclio, INESDI) nos piden que enseñemos nuestra metodología en sus grados y másters.Si no quieres invertir en “otro proyecto más”, si realmente quieres hacer de tu Odoo un ERP útil y que te ayude a conseguir tus objetivos, te ofrecemos una auditoría gratuita para entender tu situación actual y diagnosticar qué es lo que realmente necesitas.Puedes agendar esta auditoría aquí]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/ingesis-automatizacion-s-l-7619199?country_id=67">
         <name>Ingesis Automatizacion S.L.</name>
         <type>Ready</type>
-        <address><![CDATA[Calle Jornalers, 33 Poligono Industrial Sepes 46260 Alberic  España]]></address>
+        <address><![CDATA[Calle Jornalers, 33 Poligono Industrial Sepes 46260 Alberic  Spain]]></address>
         <zip>46260</zip>
         <city>Alberic</city>
         <state>Valencia</state>
@@ -1154,37 +1155,37 @@ Mobile Apps and Hyper Intelligence may transform your Information Strategy- Tran
         <web>http://www.ingesis.es</web>
         <email>jdomenech@ingesis.es</email>
         <vocation></vocation>
-        <logo>//odoocdn.com/web/image/res.partner/7619199/avatar_512/Ingesis%20Automatizacion%20S.L.?unique=3ea6876</logo>
+        <logo>https://odoocdn.com/web/image/res.partner/7619199/avatar_512/Ingesis%20Automatizacion%20S.L.?unique=3ea6876</logo>
         <description><![CDATA[Ingesis Automatización es una empresa con más de 16 años de experiencia en el mundo industrial aportando soluciones de automatización y mejora de productividad. Sabemos que las necesidades de las empresas cambian constantemente y se requieren sistemas de gestión empresarial flexibles que se adapten a cada uno de los momentos en los que se pueda encontrar su empresa. Con Odoo podemos garantizarle un acompañamiento continuo hacia la excelencia en la gestión de todos los departamentos involucrados en el funcionamiento de su negocio. Además, nuestra amplia experiencia en automatización de procesos industriales en todo tipo de sectores, nos permite aportarle el valor añadido de conectar la potencia y flexibilidad de Odoo con sus sistemas de control de producción, maquinaria, sistemas RFID, registro de datos con equipos IoT, etc. Podemos acompañarle en la definición global de sus necesidades, desde la automatización de sus procesos de fabricación hasta su integración con el ERP más potente, versátil y con el coste más ajustado del mundo. Odoo es un software todo en uno, por lo que dispondrá de todo lo necesario para la gestión de su empresa en un solo entorno. Pero si requiere de personalización avanzada para adaptar Odoo al máximo a sus necesidades, disponemos de un gran equipo de programadores que realizarán los cambios necesarios para que todo funcione tal como usted espera. No dude en contactar con nosotros para comenzar la transformación digital de su empresa. Es el momento y estaremos encantados de poder participar en ese proceso. https://ingesis.es/odoo/info@ingesis.es962 440 181]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/quilsoft-espana-7455409?country_id=67">
         <name>Quilsoft España</name>
         <type>Ready</type>
-        <address><![CDATA[C. de Pallars, 294  Barcelona  España]]></address>
-        <zip>None</zip>
-        <city>None</city>
-        <state>None</state>
+        <address><![CDATA[C. de Pallars, 294  Barcelona  Spain]]></address>
+        <zip></zip>
+        <city></city>
+        <state></state>
         <phone></phone>
         <web>https://www.quilsoft.com/</web>
         <email>espana@quilsoft.com</email>
         <vocation></vocation>
-        <logo>//odoocdn.com/web/image/res.partner/7455409/avatar_512/Quilsoft%20Espa%C3%B1a?unique=01181d2</logo>
+        <logo>https://odoocdn.com/web/image/res.partner/7455409/avatar_512/Quilsoft%20Espa%C3%B1a?unique=01181d2</logo>
         <description><![CDATA[LOGRAMOS QUE SUS OBJETIVOS TECNOLÓGICOS SE CUMPLANSomos expertos desarrollando Soluciones de Negocio, con herramientas de última tecnología destinadas a empresas y organizaciones.Somos una empresa global especializada en acompañar a medianas y grandes organizaciones hacia el camino de la Transformación Digital.Nuestro sistema de calidad está certificado ISO 9001:2015 por Tüv Rheinland en “Desarrollo, implementación, capacitación, mantenimiento, soporte y comercialización de software y ERP. Servicio Informático para la gestión de traslados.”, número de certificado 01-10006-1728938.Nuestra cultura organizacional está certificada por Great Place to Work®, a través de la medición de la percepción que tienen nuestros colaboradores sobre su experiencia en el lugar de trabajo.]]></description>
     </partner>
 
-    <partner>
+    <partner src="https://www.odoo.com/partners/soluciones-para-la-transformacion-digital-xxi-s-l-u-5155237?country_id=67">
         <name>Soluciones para la Transformación Digital XXI, S.L.U.</name>
         <type>Ready</type>
-        <address><![CDATA[Andador del Palacio de Larrinaga, 1 local   Z España]]></address>
-        <zip>None</zip>
-        <city>None</city>
-        <state>None</state>
+        <address><![CDATA[Andador del Palacio de Larrinaga, 1 local   Z Spain]]></address>
+        <zip></zip>
+        <city></city>
+        <state></state>
         <phone>+34 976 92 71 07</phone>
         <web>http://stdcore.com</web>
         <email>proyectos@stdcore.com</email>
-        <vocation>TI / Comunicaciones</vocation>
-        <logo>//odoocdn.com/web/image/res.partner/5155237/avatar_512/Soluciones%20para%20la%20Transformaci%C3%B3n%20Digital%20XXI%2C%20S.L.U.?unique=5de183d</logo>
+        <vocation>IT/Communication</vocation>
+        <logo>https://odoocdn.com/web/image/res.partner/5155237/avatar_512/Soluciones%20para%20la%20Transformaci%C3%B3n%20Digital%20XXI%2C%20S.L.U.?unique=5de183d</logo>
         <description><![CDATA[STD Core es una empresa
 de servicios tecnológicos muy ligados a la comunicación gráficay al marketing,
 si bien nuestra cobertura abarca todas las áreas de las compañías privadas, así

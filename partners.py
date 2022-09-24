@@ -1,12 +1,15 @@
 import requests
 from bs4 import BeautifulSoup
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlparse
 import re
+import pandas as pd
+import json
 
 base_url = 'https://www.odoo.com'
-index_url = 'es_ES/partners/country/espana-{cc}/page/{page}'
+index_url = 'partners/country/{cc}/page/{page}'
 
 AGENT = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'
+DTD = 'https://raw.githubusercontent.com/sotogarcia/odoo_partner_scraping/main/partners.dtd'
 PARTNERS_XML = '''{prolog}<partners>
 
 {content}
@@ -14,7 +17,7 @@ PARTNERS_XML = '''{prolog}<partners>
 </partners>
 '''
 
-PARTNER_XML = '''{prolog}    <partner>
+PARTNER_XML = '''{prolog}    <partner src="{src}">
         <name>{name}</name>
         <type>{type}</type>
         <address><![CDATA[{address}]]></address>
@@ -48,6 +51,7 @@ class Partner:
         headers = {'User-Agent': AGENT}
 
         self._url = url
+
         self._page = requests.get(self._url, headers=headers)
         self._content = BeautifulSoup(self._page.text, 'lxml')
         self._card = self._content.find('address')
@@ -72,7 +76,7 @@ class Partner:
             item = self._content.find('h1', attrs=attrs)
             self._name = item.text if item else ''
 
-        return self._name
+        return self._name or ''
 
     @property
     def type(self):
@@ -82,35 +86,35 @@ class Partner:
             item = item.find_next_sibling('h3').find('span')
             self._type = item.text if item else ''
 
-        return self._type
+        return self._type or ''
 
     @property
     def address(self):
         if not self._address:
             self._update_address()
 
-        return self._address
+        return self._address or ''
 
     @property
     def zip(self):
         if not self._address:
             self._update_address()
 
-        return self._zip
+        return self._zip or ''
 
     @property
     def city(self):
         if not self._address:
             self._update_address()
 
-        return self._city
+        return self._city or ''
 
     @property
     def state(self):
         if not self._address:
             self._update_address()
 
-        return self._state
+        return self._state or ''
 
     @property
     def phone(self):
@@ -119,7 +123,7 @@ class Partner:
             item = self._content.find('span', attrs=attrs)
             self._phone = item.text if item else ''
 
-        return self._phone
+        return self._phone or ''
 
     @property
     def web(self):
@@ -131,7 +135,7 @@ class Partner:
                 if link:
                     self._web = link['href']
 
-        return self._web
+        return self._web or ''
 
     @property
     def email(self):
@@ -140,7 +144,7 @@ class Partner:
             item = self._content.find('span', attrs=attrs)
             self._email = item.text if item else ''
 
-        return self._email
+        return self._email or ''
 
     @property
     def vocation(self):
@@ -149,7 +153,7 @@ class Partner:
             item = self._content.find('span', attrs=attrs)
             self._vocation = item.text if item else ''
 
-        return self._vocation
+        return self._vocation or ''
 
     @property
     def description(self):
@@ -160,17 +164,23 @@ class Partner:
             item = parent.find('div', attrs=attrs).find('div')
             self._description = item.text if item else ''
 
-        return self._description
+        return self._description or ''
 
     @property
     def logo(self):
-        if not self._description and self._card:
+        if not self._logo and self._card:
             attrs = {'class': 'col-lg-4'}
             parent = self._card.find_parent('div', attrs=attrs)
             item = parent.find('img')
-            self._logo = item['src'] if item else ''
+            if item:
+                parsed = urlparse(self._url)
+                self._logo = '{}:{}'.format(parsed.scheme, item['src'])
 
-        return self._logo
+        return self._logo or ''
+
+    @property
+    def src(self):
+        return self._url
 
     def _update_address(self):
         attrs = {'itemprop': 'streetAddress'}
@@ -192,10 +202,10 @@ class Partner:
                     break
 
     def __str__(self):
-        return self.__repr__()
+        return str(self._to_dict(logo=False, desc=False))
 
-    def __repr__(self):
-        rep = dict(
+    def to_dict(self, logo=True, desc=False):
+        return dict(
             name=self.name,
             type=self.type,
             address=self.address,
@@ -205,11 +215,10 @@ class Partner:
             web=self.web,
             email=self.email,
             vocation=self.vocation,
-            logo=bool(self.logo),
-            description=bool(self.description),
+            logo=self.logo if logo else bool(self.logo),
+            description=self.description if desc else bool(self.description),
+            src=self.src
         )
-
-        return str(rep)
 
     def toXML(self, prolog=True):
         prolog_line = '<?xml version="1.0" encoding="UTF-8"?>\n\n'
@@ -227,7 +236,8 @@ class Partner:
             email=self.email,
             vocation=self.vocation,
             logo=self.logo,
-            description=self.description
+            description=self.description,
+            src=self.src
         )
 
 
@@ -266,22 +276,59 @@ class App():
             print(msg)
 
     def toXML(self, prolog=True):
-        prolog_line = '<?xml version="1.0" encoding="UTF-8"?>\n\n'
+        if prolog:
+            prolog_line = '<?xml version="1.0" encoding="UTF-8"?>\n'
+            prolog_line += '<!DOCTYPE partners SYSTEM "{}">\n\n'.format(DTD)
+        else:
+            prolog_line = ''
 
         return PARTNERS_XML.format(
-            prolog=prolog_line if prolog else '',
+            prolog=prolog_line,
             content='\n\n'.join(self._nodes)
         )
+
+    def toJSON(self, prolog=True):
+        partners = []
+
+        for partner in self._partners:
+            partners.append(partner.to_dict())
+
+        return json.dumps(partners)
+
+    def _data_frame(self):
+        data = {
+            'name': [partner.name for partner in self._partners],
+            'type': [partner.type for partner in self._partners],
+            'address': [partner.address for partner in self._partners],
+            'city': [partner.city for partner in self._partners],
+            'zip': [partner.zip for partner in self._partners],
+            'state': [partner.state for partner in self._partners],
+            'phone': [partner.phone for partner in self._partners],
+            'web': [partner.web for partner in self._partners],
+            'email': [partner.email for partner in self._partners],
+            'vocation': [partner.vocation for partner in self._partners],
+            'logo': [partner.logo for partner in self._partners],
+        }
+
+        return pd.DataFrame(data)
 
     def save(self, path, file_format='xml'):
         if file_format == 'xml':
             with open(path, 'w', encoding='utf-8') as f:
                 f.write(self.toXML())
+        elif file_format == 'csv':
+            df = self._data_frame()
+            df.to_csv(path, sep=',', encoding='utf-8')
+        elif file_format == 'xlsx':
+            df = self._data_frame()
+            df.to_excel(path)
+        elif file_format == 'json':
+            with open(path, 'w', encoding='utf-8') as f:
+                f.write(self.toJSON())
+        else:
+            raise Exception('Unknown file format')
 
     def __str__(self):
-        return self.__repr__()
-
-    def __repr__(self):
         partners = []
         for partner in self._partners:
             partners.append(partner.name)
@@ -291,4 +338,7 @@ class App():
 
 app = App(country=67, page_limit=2, verbose=True)
 
-app.save('partners.xml')
+app.save('partners.xml', file_format='xml')
+app.save('partners.csv', file_format='csv')
+app.save('partners.xlsx', file_format='xlsx')
+app.save('partners.json', file_format='json')
